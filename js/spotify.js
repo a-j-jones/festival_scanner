@@ -11,7 +11,6 @@ function updateArtistList(artists) {
         artistList.appendChild(artistElement);
     });
 }
-
 async function getAllLikedTracks() {
     let tracks = [];
     let offset = 0;
