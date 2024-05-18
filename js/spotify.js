@@ -31,7 +31,7 @@ function updateArtistList(artists) {
         title.textContent = artist.name;
 
         const link = document.createElement('a');
-        link.href = artist.href;
+        link.href = `https://open.spotify.com/artist/${artist.id}`;
         link.classList.add('stretched-link');
         link.target = '_blank';
 
