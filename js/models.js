@@ -1,22 +1,21 @@
 class Artist {
-    constructor(id, name, href, type, uri, popularity, genres, externalUrls, followers) {
+    constructor(id, name, href, type, uri, genres, externalUrls, followers, images) {
       this.id = id;
       this.name = name;
       this.href = href;
       this.type = type;
       this.uri = uri;
-      this.popularity = popularity;
       this.genres = genres;
       this.externalUrls = externalUrls;
       this.followers = followers;
+      this.images = images;
     }
   }
   
   class Album {
-    constructor(id, name, artists) {
+    constructor(id, name) {
       this.id = id;
       this.name = name;
-      this.artists = artists;
     }
   }
   

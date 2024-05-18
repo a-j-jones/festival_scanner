@@ -1,16 +1,52 @@
+
+let matchingArtists = [];
+
 function updateArtistList(artists) {
     artistList.innerHTML = '';
+    const row = document.createElement('div');
+    row.classList.add('row');
+
     artists.forEach(artist => {
-        const artistElement = document.createElement('div');
-        artistElement.classList.add('card', 'mb-3');
-        artistElement.innerHTML = `
-            <div class="card-body">
-                <h5 class="card-title">${artist.name}</h5>
-            </div>
-        `;
-        artistList.appendChild(artistElement);
+        const col = document.createElement('div');
+        col.classList.add('col-sm-6', 'col-md-4', 'col-lg-3', 'mb-4', 'file-item');
+        col.setAttribute('data-src', artist.href);
+
+        const card = document.createElement('div');
+        card.classList.add('card', 'bg-dark', 'text-white', 'h-100');
+
+        const imageContainer = document.createElement('div');
+        imageContainer.classList.add('image-container');
+
+        const img = document.createElement('img');
+        img.src = artist.images[0].url;
+        img.classList.add('card-img-top');
+        img.alt = artist.name;
+        img.loading = 'lazy';
+
+        const cardBody = document.createElement('div');
+        cardBody.classList.add('card-body');
+
+        const title = document.createElement('h6');
+        title.classList.add('card-title');
+        title.textContent = artist.name;
+
+        const link = document.createElement('a');
+        link.href = artist.href;
+        link.classList.add('stretched-link');
+        link.target = '_blank';
+
+        imageContainer.appendChild(img);
+        cardBody.appendChild(title);
+        cardBody.appendChild(link);
+        card.appendChild(imageContainer);
+        card.appendChild(cardBody);
+        col.appendChild(card);
+        row.appendChild(col);
     });
+
+    artistList.appendChild(row);
 }
+
 async function getAllLikedTracks() {
     let tracks = [];
     let offset = 0;
@@ -20,8 +56,20 @@ async function getAllLikedTracks() {
         const results = await spotifyApi.getMySavedTracks({ limit, offset });
         const newTracks = results.items.map(item => {
             const track = item.track;
-            const album = new Album(track.album.id, track.album.name, track.album.artists.map(artist => new Artist(artist.id, artist.name)));
-            const artists = track.artists.map(artist => new Artist(artist.id, artist.name));
+            const album = new Album(track.album.id, track.album.name);
+            const artists = track.artists.map(
+                artist => new Artist(
+                    artist.id,
+                    artist.name,
+                    artist.href,
+                    artist.type,
+                    artist.uri,
+                    artist.genres,
+                    artist.externalUrls,
+                    artist.followers,
+                    track.album.images
+                )
+            );
             return new Track(track.id, track.name, album, artists);
         });
         tracks = tracks.concat(newTracks);
@@ -53,7 +101,7 @@ async function getMatchingArtists() {
         });
 
         const matchesData = await fetch('data/matches.json').then(response => response.json());
-        const matchingArtists = artists.filter(artist => matchesData[artist.id]);
+        matchingArtists = artists.filter(artist => matchesData[artist.id]);
 
         updateArtistList(matchingArtists);
     } catch (error) {
