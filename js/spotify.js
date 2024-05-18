@@ -2,7 +2,12 @@ function updateArtistList(artists) {
     artistList.innerHTML = '';
     artists.forEach(artist => {
         const artistElement = document.createElement('div');
-        artistElement.textContent = artist.name;
+        artistElement.classList.add('card', 'mb-3');
+        artistElement.innerHTML = `
+            <div class="card-body">
+                <h5 class="card-title">${artist.name}</h5>
+            </div>
+        `;
         artistList.appendChild(artistElement);
     });
 }
@@ -31,9 +36,10 @@ async function getAllLikedTracks() {
 
     return tracks;
 }
-
-async function getArtists() {
+async function getMatchingArtists() {
     try {
+        artistList.innerHTML = '<div class="spinner-border" role="status"><span class="visually-hidden">Loading...</span></div>';
+
         const tracks = await getAllLikedTracks();
         const artistIds = new Set();
         const artists = [];
@@ -47,8 +53,12 @@ async function getArtists() {
             });
         });
 
-        updateArtistList(artists);
+        const matchesData = await fetch('data/matches.json').then(response => response.json());
+        const matchingArtists = artists.filter(artist => matchesData[artist.id]);
+
+        updateArtistList(matchingArtists);
     } catch (error) {
-        console.error('Error retrieving artists:', error);
+        console.error('Error retrieving matching artists:', error);
+        artistList.innerHTML = '<p class="text-danger">Error retrieving matching artists. Please try again later.</p>';
     }
 }

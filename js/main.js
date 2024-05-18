@@ -13,6 +13,6 @@ window.addEventListener('message', event => {
   if (event.data.type === 'access_token') {
     const accessToken = event.data.accessToken;
     spotifyApi.setAccessToken(accessToken);
-    getArtists();
+    getMatchingArtists();
   }
 });
