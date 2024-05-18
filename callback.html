@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script>
+    const params = new URLSearchParams(window.location.hash.slice(1));
+    const accessToken = params.get('access_token');
+    window.opener.postMessage({ type: 'access_token', accessToken }, '*');
+    window.close();
+  </script>
+</head>
+<body>
+  <!-- Placeholder content -->
+</body>
+</html>
