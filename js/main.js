@@ -14,7 +14,7 @@ function updateArtistList(artists) {
 
 async function getArtists() {
   try {
-    const response = await spotifyApi.getMyRecentlyPlayedTracks({ limit: 50 });
+    const response = await spotifyApi.getMySavedTracks({ limit: 20 });
     const tracks = response.items.map(item => item.track);
     const artists = new Set();
     tracks.forEach(track => {
@@ -29,7 +29,7 @@ async function getArtists() {
 }
 
 loginButton.addEventListener('click', () => {
-  const authUrl = `https://accounts.spotify.com/authorize?client_id=${config.clientId}&response_type=token&redirect_uri=${encodeURIComponent(config.redirectUri)}&scope=user-read-recently-played`;
+  const authUrl = `https://accounts.spotify.com/authorize?client_id=${config.clientId}&response_type=token&redirect_uri=${encodeURIComponent(config.redirectUri)}&scope=user-library-read`;
   window.open(authUrl, '_blank', 'width=600,height=800');
 });
 

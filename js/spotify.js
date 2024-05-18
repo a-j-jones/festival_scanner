@@ -39,7 +39,6 @@ async function getAllLikedTracks(spotifyApi, limit = 20) {
   return tracks;
 }
 
-
 module.exports = {
   getArtistsFromTracks,
   getAllRecentlyPlayed,
