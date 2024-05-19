@@ -85,10 +85,12 @@ function updateArtistList(artists) {
         dayRow.classList.add('day-row');
 
         const dayHeading = document.createElement('h2');
+        dayHeading.classList.add('day-heading');
         dayHeading.textContent = day;
         dayRow.appendChild(dayHeading);
 
         const horizontalRule = document.createElement('hr');
+        horizontalRule.classList.add('horizontal-rule');
         dayRow.appendChild(horizontalRule);
 
         const artistsRow = document.createElement('div');

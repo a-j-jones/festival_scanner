@@ -1,26 +1,49 @@
+:root {
+  --primary-color: #1db954;
+  --background-color: #121212;
+  --card-background-color: #181818;
+  --text-color: #ffffff;
+  --secondary-text-color: #b3b3b3;
+  --divider-color: #282828;
+}
+
 body {
-    background-color: #000000;
-    font-family: 'Montserrat', sans-serif;
-    color: #fff;
-  }
-  
-  h1 {
-    color: #1db954;
-  }
-  
-  #login-button {
-    background-color: #1db954;
-    color: #fff;
-  }
-  
-  .card .card-body {
-    background-color: #242424;
-  }
-  
-  .card-title {
-    color: #fff;
-  }
-  
-  .spinner-border {
-    color: #fff;
-  }
+  background-color: var(--background-color);
+  font-family: 'Montserrat', sans-serif;
+  color: var(--text-color);
+}
+
+h1 {
+  color: var(--primary-color);
+  font-weight: bold;
+}
+
+#login-button {
+  background-color: var(--primary-color);
+  color: var(--text-color);
+}
+
+.card {
+  background-color: var(--card-background-color);
+}
+
+.card .card-body .horizontal-rule {
+  background-color: var(--divider-color);
+}
+
+.card-title {
+  color: var(--text-color);
+}
+
+.card-text {
+  color: var(--secondary-text-color);
+}
+
+.spinner-border {
+  color: var(--text-color);
+}
+
+.day-heading {
+  text-align: left;
+  color: var(--text-color);
+}
