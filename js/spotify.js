@@ -25,13 +25,9 @@ function addArtistCard(artist, row) {
     title.classList.add('card-title');
     title.textContent = artist.name;
 
-    const daysOfWeek = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
-
     const stage = document.createElement('p');
     stage.classList.add('card-text');
-    const stageDayDate = new Date(artist.stageDay * 1000);
-    const stageDayOfWeek = daysOfWeek[stageDayDate.getDay()];
-    stage.textContent = `${artist.stageName} - ${stageDayOfWeek}`;
+    stage.textContent = `${artist.stageName}`;
 
     const schedule = document.createElement('p');
     schedule.classList.add('card-text');
