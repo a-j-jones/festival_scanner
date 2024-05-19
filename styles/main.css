@@ -27,16 +27,16 @@ h1 {
   background-color: var(--card-background-color);
 }
 
-.card .card-body .horizontal-rule {
-  background-color: var(--divider-color);
-}
-
 .card-title {
   color: var(--text-color);
 }
 
 .card-text {
   color: var(--secondary-text-color);
+}
+
+.horizontal-rule {
+  background-color: var(--divider-color);
 }
 
 .spinner-border {
@@ -54,4 +54,10 @@ h1 {
   right: 10px;
   width: 20px;
   height: auto;
+}
+
+.card-img-top {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
 }

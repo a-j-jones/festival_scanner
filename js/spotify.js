@@ -11,7 +11,7 @@ function addArtistCard(artist, row) {
 
     const imageContainer = document.createElement('div');
     imageContainer.classList.add('image-container');
-
+    
     const img = document.createElement('img');
     img.src = artist.images[0].url;
     img.classList.add('card-img-top');
