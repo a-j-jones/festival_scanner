@@ -11,7 +11,7 @@ function addArtistCard(artist, row) {
 
     const imageContainer = document.createElement('div');
     imageContainer.classList.add('image-container');
-    
+
     const img = document.createElement('img');
     img.src = artist.images[0].url;
     img.classList.add('card-img-top');
@@ -23,7 +23,15 @@ function addArtistCard(artist, row) {
 
     const title = document.createElement('h6');
     title.classList.add('card-title');
-    title.textContent = artist.name;
+
+    const rankSpan = document.createElement('span');
+    rankSpan.classList.add('rank-span');
+    rankSpan.textContent = `#${artist.rank} - `;
+    title.appendChild(rankSpan);
+
+    const nameSpan = document.createElement('span');
+    nameSpan.textContent = artist.name;
+    title.appendChild(nameSpan);
 
     const stage = document.createElement('p');
     stage.classList.add('card-text');
@@ -125,8 +133,11 @@ async function getAllArtists() {
     const artistResults = await Promise.all(artistPromises);
     const artists = [];
 
+    let rank = 0;
+
     for (const { items } of artistResults) {
         for (const artist of items) {
+            rank++;
             const matchData = matchesData[artist.id] || {};
             if (Object.keys(matchData).length === 0) continue;
 
@@ -138,15 +149,16 @@ async function getAllArtists() {
                     matchData.start_time,
                     matchData.end_time,
                     matchData.stage_name,
-                    matchData.stage_day
+                    matchData.stage_day,
+                    rank
                 )
             );
+
         }
     }
 
     return artists;
 }
-
 async function getMatchingArtists() {
     try {
         artistList.innerHTML = '<div class="spinner-border" role="status"><span class="visually-hidden">Loading...</span></div>';

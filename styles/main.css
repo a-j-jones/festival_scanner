@@ -61,3 +61,7 @@ h1 {
   aspect-ratio: 1 / 1;
   object-fit: cover;
 }
+
+.rank-span {
+  color: var(--secondary-text-color);
+}

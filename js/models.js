@@ -1,5 +1,5 @@
 class Artist {
-  constructor(id, name, images, startTime, endTime, stageName, stageDay) {
+  constructor(id, name, images, startTime, endTime, stageName, stageDay, rank) {
       this.id = id;
       this.name = name;
       this.images = images;
@@ -7,5 +7,6 @@ class Artist {
       this.endTime = endTime;
       this.stageName = stageName;
       this.stageDay = stageDay;
+      this.rank = rank;
   }
 }
