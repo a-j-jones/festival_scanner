@@ -12,7 +12,7 @@ if (storedAccessToken) {
 }
 
 loginButton.addEventListener('click', () => {
-  const authUrl = `https://accounts.spotify.com/authorize?client_id=${config.clientId}&response_type=token&redirect_uri=${encodeURIComponent(config.redirectUri)}&scope=user-library-read`;
+  const authUrl = `https://accounts.spotify.com/authorize?client_id=${config.clientId}&response_type=token&redirect_uri=${encodeURIComponent(config.redirectUri)}&scope=user-library-read,user-top-read`;
   window.open(authUrl, '_blank', 'width=600,height=800');
 });
 

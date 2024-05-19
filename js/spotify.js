@@ -1,6 +1,5 @@
 
 let matchingArtists = [];
-let json_match = {};
 
 function addArtistCard(artist, row) {
     const col = document.createElement('div');
@@ -113,45 +112,39 @@ function updateArtistList(artists) {
 
 async function getAllArtists() {
     const limit = 20;
+    const maxLimit = 100;
 
-    const { total, items: firstBatchItems } = await spotifyApi.getMySavedTracks({ limit });
-    const numRequests = Math.ceil((total - limit) / limit);
+    const { total, items: firstBatchItems } = await spotifyApi.getMyTopArtists({ limit });
+    const numRequests = Math.ceil((Math.min(total, maxLimit) - limit) / limit);
     const matchesData = await fetch('data/matches.json').then(response => response.json());
 
-    const trackPromises = [
+    const artistPromises = [
         Promise.resolve({ items: firstBatchItems }),
         ...Array.from({ length: numRequests }, (_, i) => {
             const offset = (i + 1) * limit;
-            return spotifyApi.getMySavedTracks({ limit, offset });
+            return spotifyApi.getMyTopArtists({ limit, offset });
         }),
     ];
 
-    const trackResults = await Promise.all(trackPromises);
-    const artistIds = new Set();
+    const artistResults = await Promise.all(artistPromises);
     const artists = [];
 
-    for (const { items } of trackResults) {
-        for (const item of items) {
-            const track = item.track;
+    for (const { items } of artistResults) {
+        for (const artist of items) {
+            const matchData = matchesData[artist.id] || {};
+            if (Object.keys(matchData).length === 0) continue;
 
-            for (const artist of track.artists) {
-                const matchData = matchesData[artist.id] || {};
-                if (artistIds.has(artist.id) || Object.keys(matchData).length === 0) continue;
-                artistIds.add(artist.id);
-
-                json_match = matchData;
-                artists.push(
-                    new Artist(
-                        artist.id,
-                        artist.name,
-                        track.album.images,
-                        matchData.start_time,
-                        matchData.end_time,
-                        matchData.stage_name,
-                        matchData.stage_day
-                    )
-                );
-            }
+            artists.push(
+                new Artist(
+                    artist.id,
+                    artist.name,
+                    artist.images,
+                    matchData.start_time,
+                    matchData.end_time,
+                    matchData.stage_name,
+                    matchData.stage_day
+                )
+            );
         }
     }
 
