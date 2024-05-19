@@ -71,6 +71,7 @@ function updateArtistList(artists) {
 
 async function getAllArtists() {
     const limit = 20;
+    
     const { total, items: firstBatchItems } = await spotifyApi.getMySavedTracks({ limit });
     const numRequests = Math.ceil((total - limit) / limit);
     const matchesData = await fetch('data/matches.json').then(response => response.json());
@@ -114,6 +115,7 @@ async function getAllArtists() {
 
     return artists;
 }
+
 async function getMatchingArtists() {
     try {
         artistList.innerHTML = '<div class="spinner-border" role="status"><span class="visually-hidden">Loading...</span></div>';
@@ -125,5 +127,7 @@ async function getMatchingArtists() {
     } catch (error) {
         console.error('Error retrieving matching artists:', error);
         artistList.innerHTML = '<p class="text-danger">Error retrieving matching artists. Please try again later.</p>';
+        localStorage.removeItem('accessToken');
+        loginButton.hidden = false;
     }
 }
