@@ -1,5 +1,5 @@
 body {
-    background-color: #121212;
+    background-color: #000000;
     font-family: 'Montserrat', sans-serif;
     color: #fff;
   }
@@ -13,8 +13,8 @@ body {
     color: #fff;
   }
   
-  .card {
-    background-color: #1e1e1e;
+  .card .card-body {
+    background-color: #242424;
   }
   
   .card-title {
