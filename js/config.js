@@ -4,7 +4,7 @@ const config = {
       if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
         return 'http://localhost:8000/callback.html';
       } else {
-        return 'https://a-j-jones.github.io/festival_spotify/callback';
+        return 'https://a-j-jones.github.io/festival_scanner/callback';
       }
     }
   };
