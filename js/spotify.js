@@ -1,5 +1,6 @@
 
 let matchingArtists = [];
+let json_match = {};
 
 function updateArtistList(artists) {
     artistList.innerHTML = '';
@@ -30,6 +31,25 @@ function updateArtistList(artists) {
         title.classList.add('card-title');
         title.textContent = artist.name;
 
+        const daysOfWeek = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+
+        const stage = document.createElement('p');
+        stage.classList.add('card-text');
+        const stageDayDate = new Date(artist.stageDay * 1000);
+        const stageDayOfWeek = daysOfWeek[stageDayDate.getDay()];
+        stage.textContent = `${artist.stageName} - ${stageDayOfWeek}`;
+
+        const schedule = document.createElement('p');
+        schedule.classList.add('card-text');
+        const startTime = new Date(artist.startTime * 1000);
+        const endTime = new Date(artist.endTime * 1000);
+        const formatTime = (date) => {
+            const hours = String(date.getHours()).padStart(2, '0');
+            const minutes = String(date.getMinutes()).padStart(2, '0');
+            return `${hours}:${minutes}`;
+        };
+        schedule.textContent = `${formatTime(startTime)} - ${formatTime(endTime)}`;
+
         const link = document.createElement('a');
         link.href = `https://open.spotify.com/artist/${artist.id}`;
         link.classList.add('stretched-link');
@@ -37,6 +57,8 @@ function updateArtistList(artists) {
 
         imageContainer.appendChild(img);
         cardBody.appendChild(title);
+        cardBody.appendChild(stage);
+        cardBody.appendChild(schedule);
         cardBody.appendChild(link);
         card.appendChild(imageContainer);
         card.appendChild(cardBody);
@@ -47,10 +69,11 @@ function updateArtistList(artists) {
     artistList.appendChild(row);
 }
 
-async function getAllLikedTracks() {
+async function getAllArtists() {
     const limit = 20;
     const { total, items: firstBatchItems } = await spotifyApi.getMySavedTracks({ limit });
     const numRequests = Math.ceil((total - limit) / limit);
+    const matchesData = await fetch('data/matches.json').then(response => response.json());
 
     const trackPromises = [
         Promise.resolve({ items: firstBatchItems }),
@@ -61,51 +84,44 @@ async function getAllLikedTracks() {
     ];
 
     const trackResults = await Promise.all(trackPromises);
-    const tracks = trackResults.flatMap(({ items }) => {
-        return items.map(item => {
+    const artistIds = new Set();
+    const artists = [];
+
+    for (const { items } of trackResults) {
+        for (const item of items) {
             const track = item.track;
-            const album = new Album(track.album.id, track.album.name);
-            const artists = track.artists.map(
-                artist => new Artist(
-                    artist.id,
-                    artist.name,
-                    artist.href,
-                    artist.type,
-                    artist.uri,
-                    artist.genres,
-                    artist.externalUrls,
-                    artist.followers,
-                    track.album.images
-                )
-            );
-            return new Track(track.id, track.name, album, artists);
-        });
-    });
 
-    return tracks;
+            for (const artist of track.artists) {
+                const matchData = matchesData[artist.id] || {};
+                if (artistIds.has(artist.id) || Object.keys(matchData).length === 0) continue;
+                artistIds.add(artist.id);
+
+                json_match = matchData;
+                artists.push(
+                    new Artist(
+                        artist.id,
+                        artist.name,
+                        track.album.images,
+                        matchData.start_time,
+                        matchData.end_time,
+                        matchData.stage_name,
+                        matchData.stage_day
+                    )
+                );
+            }
+        }
+    }
+
+    return artists;
 }
-
 async function getMatchingArtists() {
     try {
         artistList.innerHTML = '<div class="spinner-border" role="status"><span class="visually-hidden">Loading...</span></div>';
 
-        const tracks = await getAllLikedTracks();
-        const artistIds = new Set();
-        const artists = [];
+        const artists = await getAllArtists();
+        matchingArtists = artists;
+        updateArtistList(artists);
 
-        tracks.forEach(track => {
-            track.artists.forEach(artist => {
-                if (!artistIds.has(artist.id)) {
-                    artistIds.add(artist.id);
-                    artists.push(artist);
-                }
-            });
-        });
-
-        const matchesData = await fetch('data/matches.json').then(response => response.json());
-        matchingArtists = artists.filter(artist => matchesData[artist.id]);
-
-        updateArtistList(matchingArtists);
     } catch (error) {
         console.error('Error retrieving matching artists:', error);
         artistList.innerHTML = '<p class="text-danger">Error retrieving matching artists. Please try again later.</p>';
