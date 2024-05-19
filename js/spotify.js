@@ -48,13 +48,21 @@ function updateArtistList(artists) {
 }
 
 async function getAllLikedTracks() {
-    let tracks = [];
-    let offset = 0;
-    let limit = 20;
+    const limit = 20;
+    const { total, items: firstBatchItems } = await spotifyApi.getMySavedTracks({ limit });
+    const numRequests = Math.ceil((total - limit) / limit);
 
-    while (true) {
-        const results = await spotifyApi.getMySavedTracks({ limit, offset });
-        const newTracks = results.items.map(item => {
+    const trackPromises = [
+        Promise.resolve({ items: firstBatchItems }),
+        ...Array.from({ length: numRequests }, (_, i) => {
+            const offset = (i + 1) * limit;
+            return spotifyApi.getMySavedTracks({ limit, offset });
+        }),
+    ];
+
+    const trackResults = await Promise.all(trackPromises);
+    const tracks = trackResults.flatMap(({ items }) => {
+        return items.map(item => {
             const track = item.track;
             const album = new Album(track.album.id, track.album.name);
             const artists = track.artists.map(
@@ -72,17 +80,11 @@ async function getAllLikedTracks() {
             );
             return new Track(track.id, track.name, album, artists);
         });
-        tracks = tracks.concat(newTracks);
-
-        if (newTracks.length === limit) {
-            offset += limit;
-        } else {
-            break;
-        }
-    }
+    });
 
     return tracks;
 }
+
 async function getMatchingArtists() {
     try {
         artistList.innerHTML = '<div class="spinner-border" role="status"><span class="visually-hidden">Loading...</span></div>';
