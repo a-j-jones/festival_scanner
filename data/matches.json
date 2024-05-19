@@ -2,751 +2,1387 @@
     "0BjKESiuU8dT323VIL8SqG": {
         "id": "0BjKESiuU8dT323VIL8SqG",
         "spotify_name": "Calum Bowie",
-        "clashfinder_name": "Calum Bowie"
+        "clashfinder_name": "Calum Bowie",
+        "start_time": 1719676800.0,
+        "end_time": 1719679500.0,
+        "stage_name": "Leftfield",
+        "stage_day": 1719615600.0
     },
     "3yYOffqVHegboE2gJSoZOh": {
         "id": "3yYOffqVHegboE2gJSoZOh",
         "spotify_name": "GUISE",
-        "clashfinder_name": "Guise"
+        "clashfinder_name": "Guise",
+        "start_time": 1719501000.0,
+        "end_time": 1719503400.0,
+        "stage_name": "Strummerville",
+        "stage_day": 1719442800.0
     },
     "27M9shmwhIjRo7WntpT9Rp": {
         "id": "27M9shmwhIjRo7WntpT9Rp",
         "spotify_name": "Frank Turner",
-        "clashfinder_name": "Frank Turner"
+        "clashfinder_name": "Frank Turner",
+        "start_time": 1719585300.0,
+        "end_time": 1719588900.0,
+        "stage_name": "Avalon",
+        "stage_day": 1719529200.0
     },
     "5FeiISr6o8mHNSTNtwKceS": {
         "id": "5FeiISr6o8mHNSTNtwKceS",
         "spotify_name": "Tom Bright",
-        "clashfinder_name": "Tom Bright"
-    },
-    "3iXWRV73XvTRhpfoT6SPLU": {
-        "id": "3iXWRV73XvTRhpfoT6SPLU",
-        "spotify_name": "\u00c1ine Deane",
-        "clashfinder_name": "Aine Deane"
+        "clashfinder_name": "Tom Bright",
+        "start_time": 1719508800.0,
+        "end_time": 1719510600.0,
+        "stage_name": "Strummerville",
+        "stage_day": 1719442800.0
     },
     "0JsgBrolcIXyCnVpVCi2Ri": {
         "id": "0JsgBrolcIXyCnVpVCi2Ri",
         "spotify_name": "Imperial Wax",
-        "clashfinder_name": "Imperial Wax"
+        "clashfinder_name": "Imperial Wax",
+        "start_time": 1719515100.0,
+        "end_time": 1719517500.0,
+        "stage_name": "Strummerville",
+        "stage_day": 1719442800.0
     },
     "61pu7GvNolEPMoN5WZZAti": {
         "id": "61pu7GvNolEPMoN5WZZAti",
         "spotify_name": "Chimer",
-        "clashfinder_name": "Chimer"
+        "clashfinder_name": "Chimer",
+        "start_time": 1719518400.0,
+        "end_time": 1719520200.0,
+        "stage_name": "Strummerville",
+        "stage_day": 1719442800.0
     },
     "0tOwIiW3D0G6AT4z4S1E8k": {
         "id": "0tOwIiW3D0G6AT4z4S1E8k",
         "spotify_name": "SLEAZE",
-        "clashfinder_name": "Sleaze"
+        "clashfinder_name": "Sleaze",
+        "start_time": 1719522000.0,
+        "end_time": 1719524700.0,
+        "stage_name": "Strummerville",
+        "stage_day": 1719442800.0
     },
     "4DLjEphXbW7qIhX4iwmNEe": {
         "id": "4DLjEphXbW7qIhX4iwmNEe",
         "spotify_name": "Fat Dog",
-        "clashfinder_name": "Fat Dog"
+        "clashfinder_name": "Fat Dog",
+        "start_time": 1719525600.0,
+        "end_time": 1719528300.0,
+        "stage_name": "Strummerville",
+        "stage_day": 1719442800.0
     },
     "00x1fYSGhdqScXBRpSj3DW": {
         "id": "00x1fYSGhdqScXBRpSj3DW",
         "spotify_name": "Olivia Dean",
-        "clashfinder_name": "Olivia Dean"
+        "clashfinder_name": "Olivia Dean",
+        "start_time": 1719576900.0,
+        "end_time": 1719580500.0,
+        "stage_name": "Pyramid",
+        "stage_day": 1719529200.0
     },
     "53A0W3U0s8diEn9RhXQhVz": {
         "id": "53A0W3U0s8diEn9RhXQhVz",
         "spotify_name": "Keane",
-        "clashfinder_name": "Keane"
+        "clashfinder_name": "Keane",
+        "start_time": 1719582300.0,
+        "end_time": 1719585900.0,
+        "stage_name": "Pyramid",
+        "stage_day": 1719529200.0
     },
     "7nqOGRxlXj7N2JYbgNEjYH": {
         "id": "7nqOGRxlXj7N2JYbgNEjYH",
         "spotify_name": "SEVENTEEN",
-        "clashfinder_name": "SEVENTEEN"
+        "clashfinder_name": "SEVENTEEN",
+        "start_time": 1719588600.0,
+        "end_time": 1719592200.0,
+        "stage_name": "Pyramid",
+        "stage_day": 1719529200.0
     },
     "12VaqyEhgwDRuFfEqbnrpz": {
         "id": "12VaqyEhgwDRuFfEqbnrpz",
         "spotify_name": "PJ Harvey",
-        "clashfinder_name": "PJ Harvey"
+        "clashfinder_name": "PJ Harvey",
+        "start_time": 1719594900.0,
+        "end_time": 1719598500.0,
+        "stage_name": "Pyramid",
+        "stage_day": 1719529200.0
     },
     "5SHgclK1ZpTdfdAmXW7J6s": {
         "id": "5SHgclK1ZpTdfdAmXW7J6s",
         "spotify_name": "The Last Dinner Party",
-        "clashfinder_name": "The Last Dinner Party"
+        "clashfinder_name": "The Last Dinner Party",
+        "start_time": 1719585900.0,
+        "end_time": 1719589500.0,
+        "stage_name": "Other",
+        "stage_day": 1719529200.0
     },
     "3pTE9iaJTkWns3mxpNQlJV": {
         "id": "3pTE9iaJTkWns3mxpNQlJV",
         "spotify_name": "Bombay Bicycle Club",
-        "clashfinder_name": "Bombay Bicycle Club"
+        "clashfinder_name": "Bombay Bicycle Club",
+        "start_time": 1719591300.0,
+        "end_time": 1719594900.0,
+        "stage_name": "Other",
+        "stage_day": 1719529200.0
     },
     "1zNqDE7qDGCsyzJwohVaoX": {
         "id": "1zNqDE7qDGCsyzJwohVaoX",
         "spotify_name": "Anne-Marie",
-        "clashfinder_name": "Anne-Marie"
+        "clashfinder_name": "Anne-Marie",
+        "start_time": 1719596700.0,
+        "end_time": 1719600300.0,
+        "stage_name": "Other",
+        "stage_day": 1719529200.0
     },
     "5VadK1havLhK1OpKYsXv9y": {
         "id": "5VadK1havLhK1OpKYsXv9y",
         "spotify_name": "D-Block Europe",
-        "clashfinder_name": "D-Block Europe"
+        "clashfinder_name": "D-Block Europe",
+        "start_time": 1719603000.0,
+        "end_time": 1719606600.0,
+        "stage_name": "Other",
+        "stage_day": 1719529200.0
     },
     "75mafsNqNE1WSEVxIKuY5C": {
         "id": "75mafsNqNE1WSEVxIKuY5C",
         "spotify_name": "IDLES",
-        "clashfinder_name": "IDLES"
+        "clashfinder_name": "IDLES",
+        "start_time": 1719610200.0,
+        "end_time": 1719614700.0,
+        "stage_name": "Other",
+        "stage_day": 1719529200.0
     },
     "7wXTWO45lqpUejDkike0Gf": {
         "id": "7wXTWO45lqpUejDkike0Gf",
         "spotify_name": "Sofia Kourtesis",
-        "clashfinder_name": "Sofia Kourtesis"
+        "clashfinder_name": "Sofia Kourtesis",
+        "start_time": 1719570600.0,
+        "end_time": 1719574200.0,
+        "stage_name": "West Holts",
+        "stage_day": 1719529200.0
     },
-    "56l5TSqk0d3D3JVIbBJJ9F": {
-        "id": "56l5TSqk0d3D3JVIbBJJ9F",
+    "6XS2GPyMwHEgAn0VspnhMf": {
+        "id": "6XS2GPyMwHEgAn0VspnhMf",
+        "spotify_name": "Asha Puthli",
+        "clashfinder_name": "Asha Puthli",
+        "start_time": 1719576000.0,
+        "end_time": 1719579600.0,
+        "stage_name": "West Holts",
+        "stage_day": 1719529200.0
+    },
+    "685XjGzGztyivfR3fAjoxo": {
+        "id": "685XjGzGztyivfR3fAjoxo",
         "spotify_name": "Squid",
-        "clashfinder_name": "Squid"
+        "clashfinder_name": "Squid",
+        "start_time": 1719581400.0,
+        "end_time": 1719585000.0,
+        "stage_name": "West Holts",
+        "stage_day": 1719529200.0
+    },
+    "1EpyA68dKpjf7jXmQL88Hy": {
+        "id": "1EpyA68dKpjf7jXmQL88Hy",
+        "spotify_name": "Noname",
+        "clashfinder_name": "Noname",
+        "start_time": 1719586800.0,
+        "end_time": 1719590400.0,
+        "stage_name": "West Holts",
+        "stage_day": 1719529200.0
     },
     "7rZNSLWMjTbwdLNskFbzFf": {
         "id": "7rZNSLWMjTbwdLNskFbzFf",
         "spotify_name": "Sugababes",
-        "clashfinder_name": "Sugababes"
+        "clashfinder_name": "Sugababes",
+        "start_time": 1719592200.0,
+        "end_time": 1719595800.0,
+        "stage_name": "West Holts",
+        "stage_day": 1719529200.0
     },
     "7aA592KWirLsnfb5ulGWvU": {
         "id": "7aA592KWirLsnfb5ulGWvU",
         "spotify_name": "Danny Brown",
-        "clashfinder_name": "Danny Brown"
+        "clashfinder_name": "Danny Brown",
+        "start_time": 1719597600.0,
+        "end_time": 1719601200.0,
+        "stage_name": "West Holts",
+        "stage_day": 1719529200.0
     },
     "7sTKZr30LqC928DZ5P9mNQ": {
         "id": "7sTKZr30LqC928DZ5P9mNQ",
         "spotify_name": "Heilung",
-        "clashfinder_name": "Heilung"
+        "clashfinder_name": "Heilung",
+        "start_time": 1719603000.0,
+        "end_time": 1719606600.0,
+        "stage_name": "West Holts",
+        "stage_day": 1719529200.0
     },
     "59oA5WbbQvomJz2BuRG071": {
         "id": "59oA5WbbQvomJz2BuRG071",
         "spotify_name": "Jungle",
-        "clashfinder_name": "Jungle"
+        "clashfinder_name": "Jungle",
+        "start_time": 1719609300.0,
+        "end_time": 1719614700.0,
+        "stage_name": "West Holts",
+        "stage_day": 1719529200.0
     },
     "6VR4TJ20WGiho2xZWMuuWb": {
         "id": "6VR4TJ20WGiho2xZWMuuWb",
         "spotify_name": "Lambrini Girls",
-        "clashfinder_name": "Lambrini Girls"
+        "clashfinder_name": "Lambrini Girls",
+        "start_time": 1719693900.0,
+        "end_time": 1719696600.0,
+        "stage_name": "Strummerville",
+        "stage_day": 1719615600.0
     },
-    "1yz8XixOiIJJ9IxjbnfYV6": {
-        "id": "1yz8XixOiIJJ9IxjbnfYV6",
+    "2mqGkZUN0i8UQXdGL6MnXs": {
+        "id": "2mqGkZUN0i8UQXdGL6MnXs",
         "spotify_name": "NewDad",
-        "clashfinder_name": "NewDad"
+        "clashfinder_name": "NewDad",
+        "start_time": 1719579600.0,
+        "end_time": 1719582300.0,
+        "stage_name": "Woodsies",
+        "stage_day": 1719529200.0
     },
     "7uMDnSZyUYNBPLhPMNuaM2": {
         "id": "7uMDnSZyUYNBPLhPMNuaM2",
         "spotify_name": "Kenya Grace",
-        "clashfinder_name": "Kenya Grace"
+        "clashfinder_name": "Kenya Grace",
+        "start_time": 1719584100.0,
+        "end_time": 1719586800.0,
+        "stage_name": "Woodsies",
+        "stage_day": 1719529200.0
     },
     "0Ak6DLKHtpR6TEEnmcorKA": {
         "id": "0Ak6DLKHtpR6TEEnmcorKA",
         "spotify_name": "The Vaccines",
-        "clashfinder_name": "The Vaccines"
+        "clashfinder_name": "The Vaccines",
+        "start_time": 1719588600.0,
+        "end_time": 1719592200.0,
+        "stage_name": "Woodsies",
+        "stage_day": 1719529200.0
     },
     "4kIwETcbpuFgRukE8o7Opx": {
         "id": "4kIwETcbpuFgRukE8o7Opx",
         "spotify_name": "Arlo Parks",
-        "clashfinder_name": "Arlo Parks"
+        "clashfinder_name": "Arlo Parks",
+        "start_time": 1719594000.0,
+        "end_time": 1719597600.0,
+        "stage_name": "Woodsies",
+        "stage_day": 1719529200.0
     },
     "2D4FOOOtWycb3Aw9nY5n3c": {
         "id": "2D4FOOOtWycb3Aw9nY5n3c",
         "spotify_name": "Declan McKenna",
-        "clashfinder_name": "Declan McKenna"
+        "clashfinder_name": "Declan McKenna",
+        "start_time": 1719599400.0,
+        "end_time": 1719603000.0,
+        "stage_name": "Woodsies",
+        "stage_day": 1719529200.0
+    },
+    "2WoVwexZuODvclzULjPQtm": {
+        "id": "2WoVwexZuODvclzULjPQtm",
+        "spotify_name": "Sampha",
+        "clashfinder_name": "Sampha",
+        "start_time": 1719604800.0,
+        "end_time": 1719608400.0,
+        "stage_name": "Woodsies",
+        "stage_day": 1719529200.0
     },
     "7A0awCXkE1FtSU8B0qwOJQ": {
         "id": "7A0awCXkE1FtSU8B0qwOJQ",
         "spotify_name": "Jamie xx",
-        "clashfinder_name": "Jamie XX"
+        "clashfinder_name": "Jamie XX",
+        "start_time": 1719610200.0,
+        "end_time": 1719614700.0,
+        "stage_name": "Woodsies",
+        "stage_day": 1719529200.0
     },
     "44tV2d4RDeMsS2sLOdcXHD": {
         "id": "44tV2d4RDeMsS2sLOdcXHD",
         "spotify_name": "Lynks",
-        "clashfinder_name": "Lynks"
+        "clashfinder_name": "Lynks",
+        "start_time": 1719570600.0,
+        "end_time": 1719573000.0,
+        "stage_name": "Park",
+        "stage_day": 1719529200.0
     },
     "6aDX1jzNVAI9enlQzW0Pgw": {
         "id": "6aDX1jzNVAI9enlQzW0Pgw",
         "spotify_name": "Moonchild Sanelly",
-        "clashfinder_name": "Moonchild Sanelly"
+        "clashfinder_name": "Moonchild Sanelly",
+        "start_time": 1719575100.0,
+        "end_time": 1719577800.0,
+        "stage_name": "Park",
+        "stage_day": 1719529200.0
     },
     "0vTVU0KH0CVzijsoKGsTPl": {
         "id": "0vTVU0KH0CVzijsoKGsTPl",
         "spotify_name": "Barry Can't Swim",
-        "clashfinder_name": "BARRY CAN'T SWIM"
+        "clashfinder_name": "BARRY CAN'T SWIM",
+        "start_time": 1719579600.0,
+        "end_time": 1719582300.0,
+        "stage_name": "Park",
+        "stage_day": 1719529200.0
     },
     "7aLfd5azGVKmim6H38mZk2": {
         "id": "7aLfd5azGVKmim6H38mZk2",
         "spotify_name": "The Mary Wallopers",
-        "clashfinder_name": "The Mary Wallopers"
-    },
-    "0ZUyFEafMwocvApBjTXvdo": {
-        "id": "0ZUyFEafMwocvApBjTXvdo",
-        "spotify_name": "This Is The Kit",
-        "clashfinder_name": "This is the Kit"
-    },
-    "0FcbkOp95p4L8Yf1HnebF3": {
-        "id": "0FcbkOp95p4L8Yf1HnebF3",
-        "spotify_name": "Dexys",
-        "clashfinder_name": "Dexys"
+        "clashfinder_name": "The Mary Wallopers",
+        "start_time": 1719584100.0,
+        "end_time": 1719587700.0,
+        "stage_name": "Park",
+        "stage_day": 1719529200.0
     },
     "1WgXqy2Dd70QQOU7Ay074N": {
         "id": "1WgXqy2Dd70QQOU7Ay074N",
         "spotify_name": "AURORA",
-        "clashfinder_name": "Aurora"
+        "clashfinder_name": "Aurora",
+        "start_time": 1719600300.0,
+        "end_time": 1719603900.0,
+        "stage_name": "Park",
+        "stage_day": 1719529200.0
     },
     "4wyNyxs74Ux8UIDopNjIai": {
         "id": "4wyNyxs74Ux8UIDopNjIai",
         "spotify_name": "King Krule",
-        "clashfinder_name": "King Krule"
+        "clashfinder_name": "King Krule",
+        "start_time": 1719605700.0,
+        "end_time": 1719609300.0,
+        "stage_name": "Park",
+        "stage_day": 1719529200.0
     },
     "3SXwqSqAoBz9WCI9PDQzY6": {
         "id": "3SXwqSqAoBz9WCI9PDQzY6",
         "spotify_name": "Fontaines D.C.",
-        "clashfinder_name": "Fontaines D.C."
+        "clashfinder_name": "Fontaines D.C.",
+        "start_time": 1719612000.0,
+        "end_time": 1719616500.0,
+        "stage_name": "Park",
+        "stage_day": 1719529200.0
     },
     "6nnn5LYcpqTA3f7mjLcpuK": {
         "id": "6nnn5LYcpqTA3f7mjLcpuK",
         "spotify_name": "The Burma",
-        "clashfinder_name": "The Burma"
+        "clashfinder_name": "The Burma",
+        "start_time": 1719570600.0,
+        "end_time": 1719572400.0,
+        "stage_name": "Acoustic",
+        "stage_day": 1719529200.0
     },
     "56GNqAFg9wJNTwcHsJhyS2": {
         "id": "56GNqAFg9wJNTwcHsJhyS2",
         "spotify_name": "John Smith",
-        "clashfinder_name": "John Smith"
+        "clashfinder_name": "John Smith",
+        "start_time": 1719573000.0,
+        "end_time": 1719574800.0,
+        "stage_name": "Acoustic",
+        "stage_day": 1719529200.0
     },
     "574ERIqzZ5yZU9JhIf3Ysf": {
         "id": "574ERIqzZ5yZU9JhIf3Ysf",
         "spotify_name": "Angie McMahon",
-        "clashfinder_name": "Angie McMahon"
+        "clashfinder_name": "Angie McMahon",
+        "start_time": 1719576000.0,
+        "end_time": 1719578400.0,
+        "stage_name": "Acoustic",
+        "stage_day": 1719529200.0
     },
     "38euc5ce2q2MMzaoJcPstz": {
         "id": "38euc5ce2q2MMzaoJcPstz",
         "spotify_name": "Josh Rouse",
-        "clashfinder_name": "Josh Rouse"
+        "clashfinder_name": "Josh Rouse",
+        "start_time": 1719579600.0,
+        "end_time": 1719582000.0,
+        "stage_name": "Acoustic",
+        "stage_day": 1719529200.0
     },
     "7eFa5ZzDWxhQK2WKIBF6AF": {
         "id": "7eFa5ZzDWxhQK2WKIBF6AF",
         "spotify_name": "Red Hot Chilli Pipers",
-        "clashfinder_name": "Red Hot Chili Pipers"
-    },
-    "1UzKSuyOqKgUupcNNEtnF1": {
-        "id": "1UzKSuyOqKgUupcNNEtnF1",
-        "spotify_name": "Stornoway",
-        "clashfinder_name": "Stornoway"
+        "clashfinder_name": "Red Hot Chili Pipers",
+        "start_time": 1719583200.0,
+        "end_time": 1719585600.0,
+        "stage_name": "Acoustic",
+        "stage_day": 1719529200.0
     },
     "49zcQeOPKS2m0iY39vQFYY": {
         "id": "49zcQeOPKS2m0iY39vQFYY",
         "spotify_name": "Dervish",
-        "clashfinder_name": "Dervish"
+        "clashfinder_name": "Dervish",
+        "start_time": 1719590400.0,
+        "end_time": 1719594000.0,
+        "stage_name": "Acoustic",
+        "stage_day": 1719529200.0
     },
     "2gTl60Ao3u7bljVnAqxPh8": {
         "id": "2gTl60Ao3u7bljVnAqxPh8",
         "spotify_name": "Tanita Tikaram",
-        "clashfinder_name": "Tanita Tikaram"
+        "clashfinder_name": "Tanita Tikaram",
+        "start_time": 1719595800.0,
+        "end_time": 1719599400.0,
+        "stage_name": "Acoustic",
+        "stage_day": 1719529200.0
+    },
+    "2wpJOPmf1TIOzrB9mzHifd": {
+        "id": "2wpJOPmf1TIOzrB9mzHifd",
+        "spotify_name": "Scouting For Girls",
+        "clashfinder_name": "Scouting for Girls",
+        "start_time": 1719601200.0,
+        "end_time": 1719604800.0,
+        "stage_name": "Acoustic",
+        "stage_day": 1719529200.0
     },
     "0Li5gN0dvr75XWnu9R3p1U": {
         "id": "0Li5gN0dvr75XWnu9R3p1U",
         "spotify_name": "The Deep Blue",
-        "clashfinder_name": "The Deep Blue"
+        "clashfinder_name": "The Deep Blue",
+        "start_time": 1719580500.0,
+        "end_time": 1719583800.0,
+        "stage_name": "Avalon",
+        "stage_day": 1719529200.0
     },
     "09SLHLZY1rIMUtsidZGYRM": {
         "id": "09SLHLZY1rIMUtsidZGYRM",
         "spotify_name": "Shaznay Lewis",
-        "clashfinder_name": "Shaznay Lewis"
+        "clashfinder_name": "Shaznay Lewis",
+        "start_time": 1719590700.0,
+        "end_time": 1719594300.0,
+        "stage_name": "Avalon",
+        "stage_day": 1719529200.0
     },
-    "4AksvCnkZaQoTu1nJr62Db": {
-        "id": "4AksvCnkZaQoTu1nJr62Db",
-        "spotify_name": "The Feeling",
-        "clashfinder_name": "The Feeling"
+    "6imyM8T1Xbe8v2iZe41dR7": {
+        "id": "6imyM8T1Xbe8v2iZe41dR7",
+        "spotify_name": "Haircut 100",
+        "clashfinder_name": "Haircut 100",
+        "start_time": 1719601500.0,
+        "end_time": 1719605100.0,
+        "stage_name": "Avalon",
+        "stage_day": 1719529200.0
     },
     "5vBKu1igxFo6g1sHADkIdg": {
         "id": "5vBKu1igxFo6g1sHADkIdg",
         "spotify_name": "Kate Nash",
-        "clashfinder_name": "Kate Nash"
+        "clashfinder_name": "Kate Nash",
+        "start_time": 1719606900.0,
+        "end_time": 1719610500.0,
+        "stage_name": "Avalon",
+        "stage_day": 1719529200.0
     },
     "3jTlKw98Ql1jGRPYqhqHap": {
         "id": "3jTlKw98Ql1jGRPYqhqHap",
         "spotify_name": "Skindred",
-        "clashfinder_name": "Skindred"
+        "clashfinder_name": "Skindred",
+        "start_time": 1719612300.0,
+        "end_time": 1719616800.0,
+        "stage_name": "Avalon",
+        "stage_day": 1719529200.0
     },
     "28KtnfdwBHptsGPPWjeovU": {
         "id": "28KtnfdwBHptsGPPWjeovU",
         "spotify_name": "Trampolene",
-        "clashfinder_name": "Trampolene"
+        "clashfinder_name": "Trampolene",
+        "start_time": 1719586800.0,
+        "end_time": 1719588600.0,
+        "stage_name": "Leftfield",
+        "stage_day": 1719529200.0
     },
     "3hmNB1OCsGQVf8ttZy01e2": {
         "id": "3hmNB1OCsGQVf8ttZy01e2",
         "spotify_name": "BIG SPECIAL",
-        "clashfinder_name": "big special"
+        "clashfinder_name": "big special",
+        "start_time": 1719590400.0,
+        "end_time": 1719593100.0,
+        "stage_name": "Leftfield",
+        "stage_day": 1719529200.0
     },
     "3ebD7fhAtxAuVaIxi1T2BJ": {
         "id": "3ebD7fhAtxAuVaIxi1T2BJ",
         "spotify_name": "Seb Lowe",
-        "clashfinder_name": "Seb Lowe"
+        "clashfinder_name": "Seb Lowe",
+        "start_time": 1719594900.0,
+        "end_time": 1719597600.0,
+        "stage_name": "Leftfield",
+        "stage_day": 1719529200.0
     },
     "27nD8P491xX8UzG3j01eIY": {
         "id": "27nD8P491xX8UzG3j01eIY",
         "spotify_name": "SPRINTS",
-        "clashfinder_name": "SPRINTS"
+        "clashfinder_name": "SPRINTS",
+        "start_time": 1719599400.0,
+        "end_time": 1719603000.0,
+        "stage_name": "Leftfield",
+        "stage_day": 1719529200.0
     },
     "5yXAFDZNUNyO92l5WTImkO": {
         "id": "5yXAFDZNUNyO92l5WTImkO",
         "spotify_name": "Billy Bragg",
-        "clashfinder_name": "Billy Bragg"
+        "clashfinder_name": "Billy Bragg",
+        "start_time": 1719604800.0,
+        "end_time": 1719608400.0,
+        "stage_name": "Leftfield",
+        "stage_day": 1719529200.0
     },
     "69kbZOlmgquCA7dSFeljWt": {
         "id": "69kbZOlmgquCA7dSFeljWt",
         "spotify_name": "Paleblu",
-        "clashfinder_name": "Paleblu"
+        "clashfinder_name": "Paleblu",
+        "start_time": 1719583200.0,
+        "end_time": 1719585600.0,
+        "stage_name": "Strummerville",
+        "stage_day": 1719529200.0
+    },
+    "3R6MwTDRCpeqUE0oi2mErm": {
+        "id": "3R6MwTDRCpeqUE0oi2mErm",
+        "spotify_name": "The Page of Cups",
+        "clashfinder_name": "The Page of Cups",
+        "start_time": 1719586800.0,
+        "end_time": 1719589200.0,
+        "stage_name": "Strummerville",
+        "stage_day": 1719529200.0
     },
     "5N5jf98OOEf3uAIJpi1deD": {
         "id": "5N5jf98OOEf3uAIJpi1deD",
         "spotify_name": "The Royston Club",
-        "clashfinder_name": "The Royston Club"
+        "clashfinder_name": "The Royston Club",
+        "start_time": 1719597600.0,
+        "end_time": 1719600300.0,
+        "stage_name": "Strummerville",
+        "stage_day": 1719529200.0
     },
     "7pz3lHXjDHO7BuFQcKM8m8": {
         "id": "7pz3lHXjDHO7BuFQcKM8m8",
         "spotify_name": "GIYA",
-        "clashfinder_name": "Giya"
+        "clashfinder_name": "Giya",
+        "start_time": 1719601200.0,
+        "end_time": 1719603900.0,
+        "stage_name": "Strummerville",
+        "stage_day": 1719529200.0
     },
     "1WS1awrG8XQRs0ZWmPm471": {
         "id": "1WS1awrG8XQRs0ZWmPm471",
         "spotify_name": "Mr. Key",
-        "clashfinder_name": "Mr Key"
+        "clashfinder_name": "Mr Key",
+        "start_time": 1719604800.0,
+        "end_time": 1719607500.0,
+        "stage_name": "Strummerville",
+        "stage_day": 1719529200.0
     },
     "2mO9sbMcicNVMuvwayExrc": {
         "id": "2mO9sbMcicNVMuvwayExrc",
         "spotify_name": "Mark Sinclair",
-        "clashfinder_name": "Mark Sinclair"
+        "clashfinder_name": "Mark Sinclair",
+        "start_time": 1719615600.0,
+        "end_time": 1719622800.0,
+        "stage_name": "Strummerville",
+        "stage_day": 1719529200.0
     },
     "3ZpEKRjHaHANcpk10u6Ntq": {
         "id": "3ZpEKRjHaHANcpk10u6Ntq",
         "spotify_name": "Ayra Starr",
-        "clashfinder_name": "ayra starr"
+        "clashfinder_name": "ayra starr",
+        "start_time": 1719663300.0,
+        "end_time": 1719666000.0,
+        "stage_name": "Pyramid",
+        "stage_day": 1719615600.0
     },
     "1aIozCeQrpKipbEdkGtr0j": {
         "id": "1aIozCeQrpKipbEdkGtr0j",
         "spotify_name": "Paul Heaton",
-        "clashfinder_name": "Paul Heaton"
+        "clashfinder_name": "Paul Heaton",
+        "start_time": 1719667800.0,
+        "end_time": 1719671400.0,
+        "stage_name": "Pyramid",
+        "stage_day": 1719615600.0
+    },
+    "2BTZIqw0ntH9MvilQ3ewNY": {
+        "id": "2BTZIqw0ntH9MvilQ3ewNY",
+        "spotify_name": "Cyndi Lauper",
+        "clashfinder_name": "Cyndi Lauper",
+        "start_time": 1719673200.0,
+        "end_time": 1719676800.0,
+        "stage_name": "Pyramid",
+        "stage_day": 1719615600.0
     },
     "0bzfPKdbXL5ezYW2z3UGQj": {
         "id": "0bzfPKdbXL5ezYW2z3UGQj",
         "spotify_name": "Michael Kiwanuka",
-        "clashfinder_name": "Michael Kiwanuka"
+        "clashfinder_name": "Michael Kiwanuka",
+        "start_time": 1719678900.0,
+        "end_time": 1719682500.0,
+        "stage_name": "Pyramid",
+        "stage_day": 1719615600.0
     },
     "6eXZu6O7nAUA5z6vLV8NKI": {
         "id": "6eXZu6O7nAUA5z6vLV8NKI",
         "spotify_name": "Little Simz",
-        "clashfinder_name": "Little Simz"
+        "clashfinder_name": "Little Simz",
+        "start_time": 1719685800.0,
+        "end_time": 1719689400.0,
+        "stage_name": "Pyramid",
+        "stage_day": 1719615600.0
     },
     "4gzpq5DPGxSnKTe4SA8HAU": {
         "id": "4gzpq5DPGxSnKTe4SA8HAU",
         "spotify_name": "Coldplay",
-        "clashfinder_name": "Coldplay"
+        "clashfinder_name": "Coldplay",
+        "start_time": 1719693000.0,
+        "end_time": 1719701100.0,
+        "stage_name": "Pyramid",
+        "stage_day": 1719615600.0
     },
     "6UCQYrcJ6wab6gnQ89OJFh": {
         "id": "6UCQYrcJ6wab6gnQ89OJFh",
         "spotify_name": "Headie One",
-        "clashfinder_name": "Headie One"
+        "clashfinder_name": "Headie One",
+        "start_time": 1719666900.0,
+        "end_time": 1719669600.0,
+        "stage_name": "Other",
+        "stage_day": 1719615600.0
     },
     "3MM8mtgFzaEJsqbjZBSsHJ": {
         "id": "3MM8mtgFzaEJsqbjZBSsHJ",
         "spotify_name": "Bloc Party",
-        "clashfinder_name": "Bloc Party"
+        "clashfinder_name": "Bloc Party",
+        "start_time": 1719677700.0,
+        "end_time": 1719681300.0,
+        "stage_name": "Other",
+        "stage_day": 1719615600.0
     },
     "4nDoRrQiYLoBzwC5BhVJzF": {
         "id": "4nDoRrQiYLoBzwC5BhVJzF",
         "spotify_name": "Camila Cabello",
-        "clashfinder_name": "Camila Cabello"
+        "clashfinder_name": "Camila Cabello",
+        "start_time": 1719683100.0,
+        "end_time": 1719686700.0,
+        "stage_name": "Other",
+        "stage_day": 1719615600.0
     },
     "4GvOygVQquMaPm8oAc0vXi": {
         "id": "4GvOygVQquMaPm8oAc0vXi",
         "spotify_name": "The Streets",
-        "clashfinder_name": "The Streets"
+        "clashfinder_name": "The Streets",
+        "start_time": 1719689400.0,
+        "end_time": 1719693000.0,
+        "stage_name": "Other",
+        "stage_day": 1719615600.0
     },
     "1m9eyCFXsRO090epCmYtwn": {
         "id": "1m9eyCFXsRO090epCmYtwn",
         "spotify_name": "Disclosure",
-        "clashfinder_name": "Disclosure"
+        "clashfinder_name": "Disclosure",
+        "start_time": 1719696600.0,
+        "end_time": 1719701100.0,
+        "stage_name": "Other",
+        "stage_day": 1719615600.0
     },
     "4og9jrin5xH5JiFPbeGUPb": {
         "id": "4og9jrin5xH5JiFPbeGUPb",
         "spotify_name": "The Skatalites",
-        "clashfinder_name": "The Skatalites"
+        "clashfinder_name": "The Skatalites",
+        "start_time": 1719662400.0,
+        "end_time": 1719666000.0,
+        "stage_name": "West Holts",
+        "stage_day": 1719615600.0
     },
     "4rGa6nIVxUyi8xWSwkHDE1": {
         "id": "4rGa6nIVxUyi8xWSwkHDE1",
         "spotify_name": "Alogte Oho & His Sounds of Joy",
-        "clashfinder_name": "Alogte Oho & his Sounds of Joy"
+        "clashfinder_name": "Alogte Oho & his Sounds of Joy",
+        "start_time": 1719667800.0,
+        "end_time": 1719671400.0,
+        "stage_name": "West Holts",
+        "stage_day": 1719615600.0
     },
     "29WzbAQtDnBJF09es0uddn": {
         "id": "29WzbAQtDnBJF09es0uddn",
         "spotify_name": "Corinne Bailey Rae",
-        "clashfinder_name": "Corinne Bailey Rae"
+        "clashfinder_name": "Corinne Bailey Rae",
+        "start_time": 1719673200.0,
+        "end_time": 1719676800.0,
+        "stage_name": "West Holts",
+        "stage_day": 1719615600.0
     },
     "5NCKpzuowtihcIrIHFjKbJ": {
         "id": "5NCKpzuowtihcIrIHFjKbJ",
         "spotify_name": "Nitin Sawhney",
-        "clashfinder_name": "Nitin Sawhney"
+        "clashfinder_name": "Nitin Sawhney",
+        "start_time": 1719678600.0,
+        "end_time": 1719682200.0,
+        "stage_name": "West Holts",
+        "stage_day": 1719615600.0
     },
     "6eU0jV2eEZ8XTM7EmlguK6": {
         "id": "6eU0jV2eEZ8XTM7EmlguK6",
         "spotify_name": "Black Pumas",
-        "clashfinder_name": "Black Pumas"
+        "clashfinder_name": "Black Pumas",
+        "start_time": 1719684000.0,
+        "end_time": 1719687600.0,
+        "stage_name": "West Holts",
+        "stage_day": 1719615600.0
     },
-    "3ycxRkcZ67ALN3GQJ57Vig": {
-        "id": "3ycxRkcZ67ALN3GQJ57Vig",
+    "58LvplO4kepgNDIcx9TaqB": {
+        "id": "58LvplO4kepgNDIcx9TaqB",
         "spotify_name": "Masego",
-        "clashfinder_name": "Masego"
+        "clashfinder_name": "Masego",
+        "start_time": 1719689400.0,
+        "end_time": 1719693000.0,
+        "stage_name": "West Holts",
+        "stage_day": 1719615600.0
     },
     "5Mq7iqCWBzofK39FBqblNc": {
         "id": "5Mq7iqCWBzofK39FBqblNc",
         "spotify_name": "Jessie Ware",
-        "clashfinder_name": "Jessie Ware"
+        "clashfinder_name": "Jessie Ware",
+        "start_time": 1719695700.0,
+        "end_time": 1719701100.0,
+        "stage_name": "West Holts",
+        "stage_day": 1719615600.0
     },
-    "4Gmrt82h2vjGjnp67SG5Nw": {
-        "id": "4Gmrt82h2vjGjnp67SG5Nw",
-        "spotify_name": "High Vis",
-        "clashfinder_name": "High Vis"
+    "33yje3hgpNfdXpqdJQcrt9": {
+        "id": "33yje3hgpNfdXpqdJQcrt9",
+        "spotify_name": "Mannequin Pussy",
+        "clashfinder_name": "Mannequin Pussy",
+        "start_time": 1719666000.0,
+        "end_time": 1719668700.0,
+        "stage_name": "Woodsies",
+        "stage_day": 1719615600.0
+    },
+    "4wXchxfTTggLtzkoUhO86Q": {
+        "id": "4wXchxfTTggLtzkoUhO86Q",
+        "spotify_name": "Soccer Mommy",
+        "clashfinder_name": "Soccer Mommy",
+        "start_time": 1719670500.0,
+        "end_time": 1719673200.0,
+        "stage_name": "Woodsies",
+        "stage_day": 1719615600.0
     },
     "5ztBFCBEL7OtjdAt98RnD4": {
         "id": "5ztBFCBEL7OtjdAt98RnD4",
         "spotify_name": "Fat White Family",
-        "clashfinder_name": "Fat White Family"
-    },
-    "2h3ooJn8m8X8cL2g1BZ1Rd": {
-        "id": "2h3ooJn8m8X8cL2g1BZ1Rd",
-        "spotify_name": "Yard Act",
-        "clashfinder_name": "Yard Act"
+        "clashfinder_name": "Fat White Family",
+        "start_time": 1719675000.0,
+        "end_time": 1719678600.0,
+        "stage_name": "Woodsies",
+        "stage_day": 1719615600.0
     },
     "0otAqZw8htTsGHfqR491Yh": {
         "id": "0otAqZw8htTsGHfqR491Yh",
         "spotify_name": "Sleaford Mods",
-        "clashfinder_name": "Sleaford Mods"
+        "clashfinder_name": "Sleaford Mods",
+        "start_time": 1719691200.0,
+        "end_time": 1719694800.0,
+        "stage_name": "Woodsies",
+        "stage_day": 1719615600.0
     },
     "5GA6j57yIPCBrWk1lTvF9o": {
         "id": "5GA6j57yIPCBrWk1lTvF9o",
         "spotify_name": "Lime Garden",
-        "clashfinder_name": "Lime Garden"
+        "clashfinder_name": "Lime Garden",
+        "start_time": 1719661500.0,
+        "end_time": 1719664200.0,
+        "stage_name": "Park",
+        "stage_day": 1719615600.0
+    },
+    "6tYmTHApvspl6KAgTfHjAY": {
+        "id": "6tYmTHApvspl6KAgTfHjAY",
+        "spotify_name": "bar italia",
+        "clashfinder_name": "bar italia",
+        "start_time": 1719666000.0,
+        "end_time": 1719668700.0,
+        "stage_name": "Park",
+        "stage_day": 1719615600.0
     },
     "0HutkALC7kq2L8b9bnZUkq": {
         "id": "0HutkALC7kq2L8b9bnZUkq",
         "spotify_name": "Otoboke Beaver",
-        "clashfinder_name": "Otoboke Beaver"
+        "clashfinder_name": "Otoboke Beaver",
+        "start_time": 1719670500.0,
+        "end_time": 1719674100.0,
+        "stage_name": "Park",
+        "stage_day": 1719615600.0
     },
     "00JAfwtx5gNiiqyor88Dr5": {
         "id": "00JAfwtx5gNiiqyor88Dr5",
         "spotify_name": "Arooj Aftab",
-        "clashfinder_name": "Arooj Aftab"
+        "clashfinder_name": "Arooj Aftab",
+        "start_time": 1719675900.0,
+        "end_time": 1719679500.0,
+        "stage_name": "Park",
+        "stage_day": 1719615600.0
+    },
+    "2zPm4XzwKuPidtfKh92H2Z": {
+        "id": "2zPm4XzwKuPidtfKh92H2Z",
+        "spotify_name": "Lankum",
+        "clashfinder_name": "Lankum",
+        "start_time": 1719681300.0,
+        "end_time": 1719684900.0,
+        "stage_name": "Park",
+        "stage_day": 1719615600.0
     },
     "1xgFexIwrf2QjbU0buCNnp": {
         "id": "1xgFexIwrf2QjbU0buCNnp",
         "spotify_name": "The Breeders",
-        "clashfinder_name": "The Breeders"
+        "clashfinder_name": "The Breeders",
+        "start_time": 1719686700.0,
+        "end_time": 1719690300.0,
+        "stage_name": "Park",
+        "stage_day": 1719615600.0
     },
     "3csPCeXsj2wezyvkRFzvmV": {
         "id": "3csPCeXsj2wezyvkRFzvmV",
         "spotify_name": "Orbital",
-        "clashfinder_name": "Orbital"
+        "clashfinder_name": "Orbital",
+        "start_time": 1719692100.0,
+        "end_time": 1719696600.0,
+        "stage_name": "Park",
+        "stage_day": 1719615600.0
     },
     "2mLA48B366zkELXYx7hcDN": {
         "id": "2mLA48B366zkELXYx7hcDN",
         "spotify_name": "Peggy Gou",
-        "clashfinder_name": "Peggy Gou"
+        "clashfinder_name": "Peggy Gou",
+        "start_time": 1719698400.0,
+        "end_time": 1719702900.0,
+        "stage_name": "Park",
+        "stage_day": 1719615600.0
     },
     "4tqPTKknmeQK1uDEFVfX4G": {
         "id": "4tqPTKknmeQK1uDEFVfX4G",
         "spotify_name": "Ryan McMullan",
-        "clashfinder_name": "Ryan McMullan"
+        "clashfinder_name": "Ryan McMullan",
+        "start_time": 1719657000.0,
+        "end_time": 1719658800.0,
+        "stage_name": "Acoustic",
+        "stage_day": 1719615600.0
     },
     "4GwPAPOKcvW46DRiBCHzpM": {
         "id": "4GwPAPOKcvW46DRiBCHzpM",
         "spotify_name": "Jada Star",
-        "clashfinder_name": "Jada Star"
+        "clashfinder_name": "Jada Star",
+        "start_time": 1719659400.0,
+        "end_time": 1719661200.0,
+        "stage_name": "Acoustic",
+        "stage_day": 1719615600.0
     },
     "5KjGwF0TkKmKSC42Mtq2VV": {
         "id": "5KjGwF0TkKmKSC42Mtq2VV",
         "spotify_name": "Jessie Reid",
-        "clashfinder_name": "Jessie Reid"
+        "clashfinder_name": "Jessie Reid",
+        "start_time": 1719662400.0,
+        "end_time": 1719664800.0,
+        "stage_name": "Acoustic",
+        "stage_day": 1719615600.0
     },
     "3YMlcBYj21DcMALlALTO7m": {
         "id": "3YMlcBYj21DcMALlALTO7m",
         "spotify_name": "Albert Lee",
-        "clashfinder_name": "Albert Lee"
+        "clashfinder_name": "Albert Lee",
+        "start_time": 1719673200.0,
+        "end_time": 1719675600.0,
+        "stage_name": "Acoustic",
+        "stage_day": 1719615600.0
     },
     "3jqT1yfu4HOIDr3k9Ye94N": {
         "id": "3jqT1yfu4HOIDr3k9Ye94N",
         "spotify_name": "The Manfreds",
-        "clashfinder_name": "The Manfreds"
+        "clashfinder_name": "The Manfreds",
+        "start_time": 1719676800.0,
+        "end_time": 1719680400.0,
+        "stage_name": "Acoustic",
+        "stage_day": 1719615600.0
     },
     "6uQnHzEj8hj0UZCKjBvTaG": {
         "id": "6uQnHzEj8hj0UZCKjBvTaG",
         "spotify_name": "Ralph McTell",
-        "clashfinder_name": "Ralph McTell"
+        "clashfinder_name": "Ralph McTell",
+        "start_time": 1719687600.0,
+        "end_time": 1719691200.0,
+        "stage_name": "Acoustic",
+        "stage_day": 1719615600.0
     },
     "5vIOGcdmx1eIkq3ZtuS12U": {
         "id": "5vIOGcdmx1eIkq3ZtuS12U",
         "spotify_name": "Ocean Colour Scene",
-        "clashfinder_name": "Ocean Colour Scene"
+        "clashfinder_name": "Ocean Colour Scene",
+        "start_time": 1719693000.0,
+        "end_time": 1719697500.0,
+        "stage_name": "Acoustic",
+        "stage_day": 1719615600.0
     },
     "6c2qQFq3xfxFJndX6wSe4f": {
         "id": "6c2qQFq3xfxFJndX6wSe4f",
         "spotify_name": "Kingfishr",
-        "clashfinder_name": "Kingfishr"
+        "clashfinder_name": "Kingfishr",
+        "start_time": 1719661200.0,
+        "end_time": 1719664500.0,
+        "stage_name": "Avalon",
+        "stage_day": 1719615600.0
     },
     "0P2q6xyNc2hVFkG3ThjYcJ": {
         "id": "0P2q6xyNc2hVFkG3ThjYcJ",
         "spotify_name": "The Magic Numbers",
-        "clashfinder_name": "The Magic Numbers"
+        "clashfinder_name": "The Magic Numbers",
+        "start_time": 1719666900.0,
+        "end_time": 1719670200.0,
+        "stage_name": "Avalon",
+        "stage_day": 1719615600.0
     },
     "02YLJJnWC7YQVixkjEBRn7": {
         "id": "02YLJJnWC7YQVixkjEBRn7",
         "spotify_name": "Billie Marten",
-        "clashfinder_name": "Billie Marten"
-    },
-    "6veTV9sF06FBf2KN0xAdvo": {
-        "id": "6veTV9sF06FBf2KN0xAdvo",
-        "spotify_name": "The Go! Team",
-        "clashfinder_name": "The Go! Team"
+        "clashfinder_name": "Billie Marten",
+        "start_time": 1719671700.0,
+        "end_time": 1719675300.0,
+        "stage_name": "Avalon",
+        "stage_day": 1719615600.0
     },
     "7dJCdUO0l0K2WXzrzjYpmC": {
         "id": "7dJCdUO0l0K2WXzrzjYpmC",
         "spotify_name": "Caity Baser",
-        "clashfinder_name": "Caity Baser"
+        "clashfinder_name": "Caity Baser",
+        "start_time": 1719687900.0,
+        "end_time": 1719691500.0,
+        "stage_name": "Avalon",
+        "stage_day": 1719615600.0
     },
     "0jYKX08u1XxmHrl5TdM2QZ": {
         "id": "0jYKX08u1XxmHrl5TdM2QZ",
         "spotify_name": "Lulu",
-        "clashfinder_name": "Lulu"
+        "clashfinder_name": "Lulu",
+        "start_time": 1719693300.0,
+        "end_time": 1719696900.0,
+        "stage_name": "Avalon",
+        "stage_day": 1719615600.0
     },
     "7n1EM42Fseebd9H2p8eWWS": {
         "id": "7n1EM42Fseebd9H2p8eWWS",
         "spotify_name": "New Model Army",
-        "clashfinder_name": "New Model Army"
+        "clashfinder_name": "New Model Army",
+        "start_time": 1719698700.0,
+        "end_time": 1719702900.0,
+        "stage_name": "Avalon",
+        "stage_day": 1719615600.0
+    },
+    "5H9IFTRxSICj24uxO15ScU": {
+        "id": "5H9IFTRxSICj24uxO15ScU",
+        "spotify_name": "English Teacher",
+        "clashfinder_name": "English Teacher",
+        "start_time": 1719685800.0,
+        "end_time": 1719689400.0,
+        "stage_name": "Leftfield",
+        "stage_day": 1719615600.0
     },
     "0QJaBD8Piha8IEwKtNpBOB": {
         "id": "0QJaBD8Piha8IEwKtNpBOB",
         "spotify_name": "Billy Nomates",
-        "clashfinder_name": "Billy NoMates"
+        "clashfinder_name": "Billy NoMates",
+        "start_time": 1719691200.0,
+        "end_time": 1719694800.0,
+        "stage_name": "Leftfield",
+        "stage_day": 1719615600.0
     },
     "50G7vk1B4yuKBJwymqcJWb": {
         "id": "50G7vk1B4yuKBJwymqcJWb",
         "spotify_name": "Supalung",
-        "clashfinder_name": "Supalung"
+        "clashfinder_name": "Supalung",
+        "start_time": 1719675000.0,
+        "end_time": 1719676800.0,
+        "stage_name": "Strummerville",
+        "stage_day": 1719615600.0
     },
     "45AF6ua5WpTZJ56xWikZRG": {
         "id": "45AF6ua5WpTZJ56xWikZRG",
         "spotify_name": "Zoe Devlin",
-        "clashfinder_name": "Zoe Devlin"
+        "clashfinder_name": "Zoe Devlin",
+        "start_time": 1719680400.0,
+        "end_time": 1719682800.0,
+        "stage_name": "Strummerville",
+        "stage_day": 1719615600.0
     },
     "4fwuXg6XQHfdlOdmw36OHa": {
         "id": "4fwuXg6XQHfdlOdmw36OHa",
         "spotify_name": "Paloma Faith",
-        "clashfinder_name": "Paloma Faith"
+        "clashfinder_name": "Paloma Faith",
+        "start_time": 1719752400.0,
+        "end_time": 1719756000.0,
+        "stage_name": "Pyramid",
+        "stage_day": 1719702000.0
     },
     "5e4Dhzv426EvQe3aDb64jL": {
         "id": "5e4Dhzv426EvQe3aDb64jL",
         "spotify_name": "Shania Twain",
-        "clashfinder_name": "Shania Twain"
+        "clashfinder_name": "Shania Twain",
+        "start_time": 1719759600.0,
+        "end_time": 1719764100.0,
+        "stage_name": "Pyramid",
+        "stage_day": 1719702000.0
     },
     "6ueGR6SWhUJfvEhqkvMsVs": {
         "id": "6ueGR6SWhUJfvEhqkvMsVs",
         "spotify_name": "Janelle Mon\u00e1e",
-        "clashfinder_name": "Janelle Monae"
+        "clashfinder_name": "Janelle Monae",
+        "start_time": 1719766800.0,
+        "end_time": 1719770400.0,
+        "stage_name": "Pyramid",
+        "stage_day": 1719702000.0
     },
     "3wcj11K77LjEY1PkEazffa": {
         "id": "3wcj11K77LjEY1PkEazffa",
         "spotify_name": "Burna Boy",
-        "clashfinder_name": "Burna Boy"
+        "clashfinder_name": "Burna Boy",
+        "start_time": 1719773100.0,
+        "end_time": 1719776700.0,
+        "stage_name": "Pyramid",
+        "stage_day": 1719702000.0
     },
     "7tYKF4w9nC0nq9CsPZTHyP": {
         "id": "7tYKF4w9nC0nq9CsPZTHyP",
         "spotify_name": "SZA",
-        "clashfinder_name": "SZA"
-    },
-    "1kDGbuxWknIKx4FlgWxiSp": {
-        "id": "1kDGbuxWknIKx4FlgWxiSp",
-        "spotify_name": "Nothing But Thieves",
-        "clashfinder_name": "Nothing but Thieves"
+        "clashfinder_name": "SZA",
+        "start_time": 1719780300.0,
+        "end_time": 1719785700.0,
+        "stage_name": "Pyramid",
+        "stage_day": 1719702000.0
     },
     "0p4nmQO2msCgU4IF37Wi3j": {
         "id": "0p4nmQO2msCgU4IF37Wi3j",
         "spotify_name": "Avril Lavigne",
-        "clashfinder_name": "Avril Lavigne"
+        "clashfinder_name": "Avril Lavigne",
+        "start_time": 1719766800.0,
+        "end_time": 1719770400.0,
+        "stage_name": "Other",
+        "stage_day": 1719702000.0
     },
-    "536BYVgOnRky0xjsPT96zl": {
-        "id": "536BYVgOnRky0xjsPT96zl",
-        "spotify_name": "Two Door Cinema Club",
-        "clashfinder_name": "Two Door Cinema Club"
+    "2cCUtGK9sDU2EoElnk0GNB": {
+        "id": "2cCUtGK9sDU2EoElnk0GNB",
+        "spotify_name": "The National",
+        "clashfinder_name": "The National",
+        "start_time": 1719780300.0,
+        "end_time": 1719785700.0,
+        "stage_name": "Other",
+        "stage_day": 1719702000.0
+    },
+    "0Cioop2zjxXxtcPUme7R46": {
+        "id": "0Cioop2zjxXxtcPUme7R46",
+        "spotify_name": "Matthew Halsall",
+        "clashfinder_name": "Matthew Halsall",
+        "start_time": 1719741600.0,
+        "end_time": 1719745200.0,
+        "stage_name": "West Holts",
+        "stage_day": 1719702000.0
     },
     "2kEDso93O2hDgCbnuiSkkZ": {
         "id": "2kEDso93O2hDgCbnuiSkkZ",
         "spotify_name": "Jalen Ngonda",
-        "clashfinder_name": "Jalen Ngonda"
+        "clashfinder_name": "Jalen Ngonda",
+        "start_time": 1719747000.0,
+        "end_time": 1719750600.0,
+        "stage_name": "West Holts",
+        "stage_day": 1719702000.0
     },
     "6UL7BodGc5iVmQGlMwHR0g": {
         "id": "6UL7BodGc5iVmQGlMwHR0g",
         "spotify_name": "Steel Pulse",
-        "clashfinder_name": "Steel Pulse"
+        "clashfinder_name": "Steel Pulse",
+        "start_time": 1719757800.0,
+        "end_time": 1719761400.0,
+        "stage_name": "West Holts",
+        "stage_day": 1719702000.0
     },
     "24icoQNJSEWNu3XvqKBR68": {
         "id": "24icoQNJSEWNu3XvqKBR68",
         "spotify_name": "Jordan Rakei",
-        "clashfinder_name": "Jordan Rakei"
+        "clashfinder_name": "Jordan Rakei",
+        "start_time": 1719763500.0,
+        "end_time": 1719767100.0,
+        "stage_name": "West Holts",
+        "stage_day": 1719702000.0
     },
     "4XquDVA8pkg5Lx91No1JxB": {
         "id": "4XquDVA8pkg5Lx91No1JxB",
         "spotify_name": "Brittany Howard",
-        "clashfinder_name": "Brittany Howard"
+        "clashfinder_name": "Brittany Howard",
+        "start_time": 1719768600.0,
+        "end_time": 1719772200.0,
+        "stage_name": "West Holts",
+        "stage_day": 1719702000.0
     },
     "7BMR0fwtEvzGtK4rNGdoiQ": {
         "id": "7BMR0fwtEvzGtK4rNGdoiQ",
         "spotify_name": "Nia Archives",
-        "clashfinder_name": "Nia Archives"
+        "clashfinder_name": "Nia Archives",
+        "start_time": 1719774000.0,
+        "end_time": 1719777600.0,
+        "stage_name": "West Holts",
+        "stage_day": 1719702000.0
     },
     "1gR0gsQYfi6joyO1dlp76N": {
         "id": "1gR0gsQYfi6joyO1dlp76N",
         "spotify_name": "Justice",
-        "clashfinder_name": "Justice"
+        "clashfinder_name": "Justice",
+        "start_time": 1719780300.0,
+        "end_time": 1719785700.0,
+        "stage_name": "West Holts",
+        "stage_day": 1719702000.0
     },
     "1Zr6I0quVpqoCSTs6TRCpo": {
         "id": "1Zr6I0quVpqoCSTs6TRCpo",
         "spotify_name": "JayaHadADream",
-        "clashfinder_name": "JayaHadADream"
+        "clashfinder_name": "JayaHadADream",
+        "start_time": 1719742500.0,
+        "end_time": 1719745200.0,
+        "stage_name": "Woodsies",
+        "stage_day": 1719702000.0
     },
     "6DlKk9ibc9dCgvyNPGNXdH": {
         "id": "6DlKk9ibc9dCgvyNPGNXdH",
         "spotify_name": "The K's",
-        "clashfinder_name": "The K's"
+        "clashfinder_name": "The K's",
+        "start_time": 1719747000.0,
+        "end_time": 1719750600.0,
+        "stage_name": "Woodsies",
+        "stage_day": 1719702000.0
     },
     "0NB5HROxc8dDBXpkIi1v3d": {
         "id": "0NB5HROxc8dDBXpkIi1v3d",
         "spotify_name": "Remi Wolf",
-        "clashfinder_name": "Remi Wolf"
+        "clashfinder_name": "Remi Wolf",
+        "start_time": 1719752400.0,
+        "end_time": 1719756000.0,
+        "stage_name": "Woodsies",
+        "stage_day": 1719702000.0
     },
     "3kzwYV3OCB010YfXMF0Avt": {
         "id": "3kzwYV3OCB010YfXMF0Avt",
         "spotify_name": "Alvvays",
-        "clashfinder_name": "Alvvays"
+        "clashfinder_name": "Alvvays",
+        "start_time": 1719763200.0,
+        "end_time": 1719766800.0,
+        "stage_name": "Woodsies",
+        "stage_day": 1719702000.0
+    },
+    "3n8qeKQViV1waeCzZmS4Tx": {
+        "id": "3n8qeKQViV1waeCzZmS4Tx",
+        "spotify_name": "Kim Gordon",
+        "clashfinder_name": "Kim Gordon",
+        "start_time": 1719768600.0,
+        "end_time": 1719772200.0,
+        "stage_name": "Woodsies",
+        "stage_day": 1719702000.0
     },
     "3X2DdnmoANw8Rg8luHyZQb": {
         "id": "3X2DdnmoANw8Rg8luHyZQb",
         "spotify_name": "Romy",
-        "clashfinder_name": "Romy"
+        "clashfinder_name": "Romy",
+        "start_time": 1719774000.0,
+        "end_time": 1719777600.0,
+        "stage_name": "Woodsies",
+        "stage_day": 1719702000.0
     },
     "53KwLdlmrlCelAZMaLVZqU": {
         "id": "53KwLdlmrlCelAZMaLVZqU",
         "spotify_name": "James Blake",
-        "clashfinder_name": "James Blake"
+        "clashfinder_name": "James Blake",
+        "start_time": 1719779400.0,
+        "end_time": 1719783900.0,
+        "stage_name": "Woodsies",
+        "stage_day": 1719702000.0
     },
     "2lciIw4vq0jQqevXA2TEUl": {
         "id": "2lciIw4vq0jQqevXA2TEUl",
         "spotify_name": "Kara Jackson",
-        "clashfinder_name": "Kara Jackson"
+        "clashfinder_name": "Kara Jackson",
+        "start_time": 1719745200.0,
+        "end_time": 1719747900.0,
+        "stage_name": "Park",
+        "stage_day": 1719702000.0
     },
     "7GRrLcUxwtQLvOpO7OHO80": {
         "id": "7GRrLcUxwtQLvOpO7OHO80",
         "spotify_name": "Psychedelic Porn Crumpets",
-        "clashfinder_name": "Psychedelic Porn Crumpets"
+        "clashfinder_name": "Psychedelic Porn Crumpets",
+        "start_time": 1719749100.0,
+        "end_time": 1719751800.0,
+        "stage_name": "Park",
+        "stage_day": 1719702000.0
     },
     "1UQRtt7eHW6Bt4INNTUtb3": {
         "id": "1UQRtt7eHW6Bt4INNTUtb3",
         "spotify_name": "Johnny Flynn",
-        "clashfinder_name": "Johnny Flynn"
+        "clashfinder_name": "Johnny Flynn",
+        "start_time": 1719753300.0,
+        "end_time": 1719756000.0,
+        "stage_name": "Park",
+        "stage_day": 1719702000.0
     },
     "48dgx7iGqLQ3E5KO3pzd94": {
         "id": "48dgx7iGqLQ3E5KO3pzd94",
         "spotify_name": "Mdou Moctar",
-        "clashfinder_name": "Mdou Moctar"
-    },
-    "0EgHhNmWcjusA7F2heSD0O": {
-        "id": "0EgHhNmWcjusA7F2heSD0O",
-        "spotify_name": "Baxter Dury",
-        "clashfinder_name": "Baxter Dury"
+        "clashfinder_name": "Mdou Moctar",
+        "start_time": 1719757500.0,
+        "end_time": 1719760500.0,
+        "stage_name": "Park",
+        "stage_day": 1719702000.0
     },
     "3NUtpWpGDoffm3RCGhSHtl": {
         "id": "3NUtpWpGDoffm3RCGhSHtl",
         "spotify_name": "Mount Kimbie",
-        "clashfinder_name": "Mount Kimbie"
+        "clashfinder_name": "Mount Kimbie",
+        "start_time": 1719767700.0,
+        "end_time": 1719771300.0,
+        "stage_name": "Park",
+        "stage_day": 1719702000.0
     },
     "7zJL978NtANOysfGY21ty6": {
         "id": "7zJL978NtANOysfGY21ty6",
         "spotify_name": "Ghetts",
-        "clashfinder_name": "Ghetts"
+        "clashfinder_name": "Ghetts",
+        "start_time": 1719773100.0,
+        "end_time": 1719776700.0,
+        "stage_name": "Park",
+        "stage_day": 1719702000.0
     },
     "3Bd1cgCjtCI32PYvDC3ynO": {
         "id": "3Bd1cgCjtCI32PYvDC3ynO",
         "spotify_name": "London Grammar",
-        "clashfinder_name": "London Grammar"
+        "clashfinder_name": "London Grammar",
+        "start_time": 1719778500.0,
+        "end_time": 1719783000.0,
+        "stage_name": "Park",
+        "stage_day": 1719702000.0
     },
     "6Jb7UcGSrZigvdcjKZSaDP": {
         "id": "6Jb7UcGSrZigvdcjKZSaDP",
         "spotify_name": "Frankie Archer",
-        "clashfinder_name": "Frankie Archer"
+        "clashfinder_name": "Frankie Archer",
+        "start_time": 1719745800.0,
+        "end_time": 1719747600.0,
+        "stage_name": "Acoustic",
+        "stage_day": 1719702000.0
     },
     "4bFdVUzXSr2unwjEoOe5dY": {
         "id": "4bFdVUzXSr2unwjEoOe5dY",
         "spotify_name": "Grace Petrie",
-        "clashfinder_name": "Grace Petrie"
+        "clashfinder_name": "Grace Petrie",
+        "start_time": 1719752400.0,
+        "end_time": 1719754800.0,
+        "stage_name": "Acoustic",
+        "stage_day": 1719702000.0
     },
     "28pqwEjm2WDueRWP4AjA1x": {
         "id": "28pqwEjm2WDueRWP4AjA1x",
         "spotify_name": "Bernard Butler",
-        "clashfinder_name": "Bernard Butler"
+        "clashfinder_name": "Bernard Butler",
+        "start_time": 1719760200.0,
+        "end_time": 1719763800.0,
+        "stage_name": "Acoustic",
+        "stage_day": 1719702000.0
     },
     "5DhdFUvQCHgY2F9mVL8uoz": {
         "id": "5DhdFUvQCHgY2F9mVL8uoz",
         "spotify_name": "London Community Gospel Choir",
-        "clashfinder_name": "London Community Gospel Choir"
+        "clashfinder_name": "London Community Gospel Choir",
+        "start_time": 1719768600.0,
+        "end_time": 1719772200.0,
+        "stage_name": "Acoustic",
+        "stage_day": 1719702000.0
     },
     "5yzE49FicYiSxN61oaxkNn": {
         "id": "5yzE49FicYiSxN61oaxkNn",
         "spotify_name": "Judy Collins",
-        "clashfinder_name": "Judy Collins"
+        "clashfinder_name": "Judy Collins",
+        "start_time": 1719774000.0,
+        "end_time": 1719777600.0,
+        "stage_name": "Acoustic",
+        "stage_day": 1719702000.0
     },
     "3jc496ljiyrS3ECrD7QiqL": {
         "id": "3jc496ljiyrS3ECrD7QiqL",
         "spotify_name": "Gipsy Kings",
-        "clashfinder_name": "Gipsy Kings"
+        "clashfinder_name": "Gipsy Kings",
+        "start_time": 1719779400.0,
+        "end_time": 1719783900.0,
+        "stage_name": "Acoustic",
+        "stage_day": 1719702000.0
     },
     "4NPMwh3kDwi6uVCNtmeUvU": {
         "id": "4NPMwh3kDwi6uVCNtmeUvU",
         "spotify_name": "Elles Bailey",
-        "clashfinder_name": "Elles Bailey"
+        "clashfinder_name": "Elles Bailey",
+        "start_time": 1719743400.0,
+        "end_time": 1719745800.0,
+        "stage_name": "Avalon",
+        "stage_day": 1719702000.0
     },
     "0vFkVid8pFiVX9aLS8jdru": {
         "id": "0vFkVid8pFiVX9aLS8jdru",
         "spotify_name": "The Ayoub Sisters",
-        "clashfinder_name": "The Ayoub Sisters"
+        "clashfinder_name": "The Ayoub Sisters",
+        "start_time": 1719747300.0,
+        "end_time": 1719750600.0,
+        "stage_name": "Avalon",
+        "stage_day": 1719702000.0
     },
-    "6BCpGC485tSshwjemmeAmd": {
-        "id": "6BCpGC485tSshwjemmeAmd",
-        "spotify_name": "The Scratch",
-        "clashfinder_name": "The Scratch"
+    "0UmcqMDiiyihc3KMXvGwWb": {
+        "id": "0UmcqMDiiyihc3KMXvGwWb",
+        "spotify_name": "Cut Capers",
+        "clashfinder_name": "Cut Capers",
+        "start_time": 1719752100.0,
+        "end_time": 1719755400.0,
+        "stage_name": "Avalon",
+        "stage_day": 1719702000.0
     },
-    "4VqlewwKZJoIcA88PYHUDd": {
-        "id": "4VqlewwKZJoIcA88PYHUDd",
-        "spotify_name": "Baby Queen",
-        "clashfinder_name": "Baby Queen"
+    "3ZKyADicHqelBDeADLutiu": {
+        "id": "3ZKyADicHqelBDeADLutiu",
+        "spotify_name": "Flyte",
+        "clashfinder_name": "Flyte",
+        "start_time": 1719768000.0,
+        "end_time": 1719771600.0,
+        "stage_name": "Avalon",
+        "stage_day": 1719702000.0
+    },
+    "687uV90slAsUbjIbwubUkP": {
+        "id": "687uV90slAsUbjIbwubUkP",
+        "spotify_name": "Baby Queens",
+        "clashfinder_name": "Baby Queen",
+        "start_time": 1719773400.0,
+        "end_time": 1719777000.0,
+        "stage_name": "Avalon",
+        "stage_day": 1719702000.0
     },
     "023YMawCG3OvACmRjWxLWC": {
         "id": "023YMawCG3OvACmRjWxLWC",
         "spotify_name": "The Cat Empire",
-        "clashfinder_name": "The Cat Empire"
+        "clashfinder_name": "The Cat Empire",
+        "start_time": 1719784200.0,
+        "end_time": 1719787800.0,
+        "stage_name": "Avalon",
+        "stage_day": 1719702000.0
     },
     "6sKGpXFS8bI6lKbRfhl52T": {
         "id": "6sKGpXFS8bI6lKbRfhl52T",
         "spotify_name": "Will Varley",
-        "clashfinder_name": "Will Varley"
-    },
-    "3lN1TG4RIoaJCff6Ck9KUR": {
-        "id": "3lN1TG4RIoaJCff6Ck9KUR",
-        "spotify_name": "The Farm",
-        "clashfinder_name": "The Farm"
+        "clashfinder_name": "Will Varley",
+        "start_time": 1719763200.0,
+        "end_time": 1719765900.0,
+        "stage_name": "Leftfield",
+        "stage_day": 1719702000.0
     },
     "3E2PKHxfpNa2R6N3RIpa8S": {
         "id": "3E2PKHxfpNa2R6N3RIpa8S",
         "spotify_name": "Lizzie Esau",
-        "clashfinder_name": "Lizzie Esau"
+        "clashfinder_name": "Lizzie Esau",
+        "start_time": 1719779400.0,
+        "end_time": 1719781200.0,
+        "stage_name": "Strummerville",
+        "stage_day": 1719702000.0
     },
     "6JvEcv04PhUKWrUYZJrj1F": {
         "id": "6JvEcv04PhUKWrUYZJrj1F",
         "spotify_name": "Bel Cobain",
-        "clashfinder_name": "Bel Cobain"
+        "clashfinder_name": "Bel Cobain",
+        "start_time": 1719782100.0,
+        "end_time": 1719784800.0,
+        "stage_name": "Strummerville",
+        "stage_day": 1719702000.0
     }
 }
