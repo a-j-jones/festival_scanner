@@ -47,3 +47,11 @@ h1 {
   text-align: left;
   color: var(--text-color);
 }
+
+.spotify-logo {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  width: 20px;
+  height: auto;
+}

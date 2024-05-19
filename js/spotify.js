@@ -20,7 +20,7 @@ function addArtistCard(artist, row) {
     img.loading = 'lazy';
 
     const cardBody = document.createElement('div');
-    cardBody.classList.add('card-body');
+    cardBody.classList.add('card-body', 'position-relative');
 
     const title = document.createElement('h6');
     title.classList.add('card-title');
@@ -50,11 +50,17 @@ function addArtistCard(artist, row) {
     link.classList.add('stretched-link');
     link.target = '_blank';
 
+    const spotifyLogo = document.createElement('img');
+    spotifyLogo.src = 'static/Spotify_Icon_RGB_White.png';
+    spotifyLogo.alt = 'Spotify Logo';
+    spotifyLogo.classList.add('spotify-logo');
+
     imageContainer.appendChild(img);
     cardBody.appendChild(title);
     cardBody.appendChild(stage);
     cardBody.appendChild(schedule);
-    cardBody.appendChild(link);
+    cardBody.appendChild(spotifyLogo);
+    card.appendChild(link);
     card.appendChild(imageContainer);
     card.appendChild(cardBody);
     col.appendChild(card);
