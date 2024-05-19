@@ -1,18 +1,28 @@
 <html>
-  <head>
-    <title>Festival scanner</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="styles/main.css">
-  </head>
-  <body>
-    <div class="container">
+
+<head>
+  <title>Festival scanner</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles/main.css">
+</head>
+
+<body>
+  <div class="container">
+
+    <div class="row justify-content-center">
       <h1 class="text-center my-4">Festival scanner</h1>
-      <div id="content" class="text-center">
-        <button id="login-button" class="btn btn-lg" hidden>Log in with Spotify</button>
-        <div id="artist-list" class="mt-4"></div>
-      </div>
+      <p class="text-center">Scans your Spotify 'Liked Songs' for artists matching acts performing at Glastonbury 2024.
+      </p>
+      <p class="text-center">Using the core clashfinder <a href="https://clashfinder.com/m/g2024/"
+          target="_blank">Line-up</a></p>
     </div>
+
+    <div id="content" class="text-center">
+      <button id="login-button" class="btn btn-lg" hidden>Log in with Spotify</button>
+      <div id="artist-list" class="mt-4"></div>
+    </div>
+  </div>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
   <script src="https://unpkg.com/spotify-web-api-js@1.5.1/src/spotify-web-api.js"></script>
@@ -21,4 +31,5 @@
   <script src="js/spotify.js"></script>
   <script src="js/main.js"></script>
 </body>
+
 </html>
