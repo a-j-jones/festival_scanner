@@ -63,14 +63,44 @@ function addArtistCard(artist, row) {
 
 function updateArtistList(artists) {
     artistList.innerHTML = '';
-    const row = document.createElement('div');
-    row.classList.add('row');
 
+    // Group artists by day
+    const artistsByDay = {};
     artists.forEach(artist => {
-        addArtistCard(artist, row);
+        const day = new Date(artist.stageDay * 1000).toDateString();
+        if (!artistsByDay[day]) {
+            artistsByDay[day] = [];
+        }
+        artistsByDay[day].push(artist);
     });
 
-    artistList.appendChild(row);
+    // Sort the days in ascending order
+    const sortedDays = Object.keys(artistsByDay).sort((a, b) => {
+        return new Date(a) - new Date(b);
+    });
+
+    // Loop over the days and create rows for each day
+    sortedDays.forEach(day => {
+        const dayRow = document.createElement('div');
+        dayRow.classList.add('day-row');
+
+        const dayHeading = document.createElement('h2');
+        dayHeading.textContent = day;
+        dayRow.appendChild(dayHeading);
+
+        const horizontalRule = document.createElement('hr');
+        dayRow.appendChild(horizontalRule);
+
+        const artistsRow = document.createElement('div');
+        artistsRow.classList.add('row');
+
+        artistsByDay[day].forEach(artist => {
+            addArtistCard(artist, artistsRow);
+        });
+
+        dayRow.appendChild(artistsRow);
+        artistList.appendChild(dayRow);
+    });
 }
 
 async function getAllArtists() {
