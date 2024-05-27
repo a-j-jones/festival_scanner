@@ -9,13 +9,17 @@
 
 <body>
   <div class="container">
-
     <div class="row justify-content-center">
-      <h1 class="text-center my-4">Festival scanner</h1>
-      <p class="text-center">Scans your Spotify Top 100 Artists for acts performing at Glastonbury 2024.
-      </p>
-      <p class="text-center">Using the core clashfinder <a href="https://clashfinder.com/m/g2024/"
-          target="_blank">Line-up</a></p>
+      <div class="d-md-flex justify-content-md-end mt-4">
+        <button class="btn" onclick="getMatchingArtists(refresh=true)">Refresh</button>
+      </div>
+      <div class="d-flex col-md-auto">
+        <div class="position-relative">
+          <h1 class="text-center my-4">Festival scanner</h1>
+          <p class="text-center">Scans your Spotify Top 100 Artists for acts performing at Glastonbury 2024.</p>
+          <p class="text-center">Using the core clashfinder <a href="https://clashfinder.com/m/g2024/" target="_blank">Line-up</a></p>
+        </div>
+      </div>
     </div>
 
     <div id="content" class="text-center">

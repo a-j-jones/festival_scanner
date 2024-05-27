@@ -1,6 +1,4 @@
 
-let matchingArtists = [];
-
 function addArtistCard(artist, row) {
     const col = document.createElement('div');
     col.classList.add('col-sm-6', 'col-md-4', 'col-lg-3', 'mb-4', 'file-item');
@@ -159,12 +157,17 @@ async function getAllArtists() {
 
     return artists;
 }
-async function getMatchingArtists() {
+async function getMatchingArtists(refresh = false) {
     try {
         artistList.innerHTML = '<div class="spinner-border" role="status"><span class="visually-hidden">Loading...</span></div>';
-
-        const artists = await getAllArtists();
-        matchingArtists = artists;
+        
+        if (localStorage.getItem('artists') && !refresh) {
+            var artists = JSON.parse(localStorage.getItem('artists'));
+        } else {
+            var artists = await getAllArtists();
+            localStorage.setItem('artists', JSON.stringify(artists));
+        }
+        
         updateArtistList(artists);
 
     } catch (error) {

@@ -18,7 +18,7 @@ h1 {
   font-weight: bold;
 }
 
-#login-button {
+.btn {
   background-color: var(--primary-color);
   color: var(--text-color);
 }
