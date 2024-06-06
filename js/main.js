@@ -3,6 +3,37 @@ const artistList = document.getElementById('artist-list');
 
 const spotifyApi = new SpotifyWebApi();
 
+let festivalValues = null;
+let festivalSelected = null;
+const festivalSelector = document.getElementById('selected-festival');
+const festivalOptions = document.getElementById('festival-options');
+
+async function getFestivals() {
+  
+  festivalsJson = await fetch('data/festivals.json').then(response => response.json());
+  festivalValues = Object.entries(festivalsJson);
+
+  festivalSelected = festivalValues[0];
+  festivalSelector.textContent = festivalSelected[0];
+
+  for (const [name, file] of festivalValues) {
+    const festivalListItem = document.createElement('li');
+    const festivalButton = document.createElement('button');
+    festivalButton.classList.add('dropdown-item');
+    festivalButton.textContent = name;
+    festivalButton.addEventListener('click', () => {
+      festivalSelected = [name, file];
+      festivalSelector.textContent = name;
+      getMatchingArtists(festivalFile=file);
+    });
+    festivalListItem.appendChild(festivalButton);
+    festivalOptions.appendChild(festivalListItem);
+  }
+}
+
+getFestivals();
+
+
 const storedAccessToken = localStorage.getItem('accessToken');
 if (storedAccessToken) {
   spotifyApi.setAccessToken(storedAccessToken);

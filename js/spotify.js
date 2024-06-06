@@ -112,13 +112,13 @@ function updateArtistList(artists) {
     });
 }
 
-async function getAllArtists() {
+async function getAllArtists(festivalFile) {
     const limit = 20;
     const maxLimit = 100;
 
     const { total, items: firstBatchItems } = await spotifyApi.getMyTopArtists({ limit });
     const numRequests = Math.ceil((Math.min(total, maxLimit) - limit) / limit);
-    const matchesData = await fetch('data/matches.json').then(response => response.json());
+    const matchesData = await fetch('data/' + festivalFile).then(response => response.json());
 
     const artistPromises = [
         Promise.resolve({ items: firstBatchItems }),
@@ -157,14 +157,18 @@ async function getAllArtists() {
 
     return artists;
 }
-async function getMatchingArtists(refresh = false) {
+async function getMatchingArtists(refresh = false, festivalFile = null) {
+    if (!festivalFile) {
+        festivalFile = festivalSelected[1];
+    }
+
     try {
         artistList.innerHTML = '<div class="spinner-border" role="status"><span class="visually-hidden">Loading...</span></div>';
         
         if (localStorage.getItem('artists') && !refresh) {
             var artists = JSON.parse(localStorage.getItem('artists'));
         } else {
-            var artists = await getAllArtists();
+            var artists = await getAllArtists(festivalFile);
             localStorage.setItem('artists', JSON.stringify(artists));
         }
         

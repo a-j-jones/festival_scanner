@@ -1,0 +1,650 @@
+{
+    "1ZVACPeq7ccGCoUXwtafUU": {
+        "id": "1ZVACPeq7ccGCoUXwtafUU",
+        "spotify_name": "KNEECAP",
+        "clashfinder_name": "Kneecap",
+        "start_time": 1724415900.0,
+        "end_time": 1724417700.0,
+        "stage_name": "Main Stage",
+        "stage_day": 1724367600.0
+    },
+    "6DlKk9ibc9dCgvyNPGNXdH": {
+        "id": "6DlKk9ibc9dCgvyNPGNXdH",
+        "spotify_name": "The K's",
+        "clashfinder_name": "The K's",
+        "start_time": 1724419500.0,
+        "end_time": 1724421600.0,
+        "stage_name": "Main Stage",
+        "stage_day": 1724367600.0
+    },
+    "2TM0qnbJH4QPhGMCdPt7fH": {
+        "id": "2TM0qnbJH4QPhGMCdPt7fH",
+        "spotify_name": "Neck Deep",
+        "clashfinder_name": "Neck Deep",
+        "start_time": 1724448600.0,
+        "end_time": 1724451300.0,
+        "stage_name": "Festival Republic Stage",
+        "stage_day": 1724367600.0
+    },
+    "4MzJMcHQBl9SIYSjwWn8QW": {
+        "id": "4MzJMcHQBl9SIYSjwWn8QW",
+        "spotify_name": "Spiritbox",
+        "clashfinder_name": "Spiritbox",
+        "start_time": 1724427300.0,
+        "end_time": 1724430300.0,
+        "stage_name": "Main Stage",
+        "stage_day": 1724367600.0
+    },
+    "7cpCnhhBIU1gA7EhTFApN1": {
+        "id": "7cpCnhhBIU1gA7EhTFApN1",
+        "spotify_name": "Gerry Cinnamon",
+        "clashfinder_name": "Gerry Cinnamon",
+        "start_time": 1724438400.0,
+        "end_time": 1724443200.0,
+        "stage_name": "Main Stage",
+        "stage_day": 1724367600.0
+    },
+    "0XKmmidWs1QF2tg92tT7Jf": {
+        "id": "0XKmmidWs1QF2tg92tT7Jf",
+        "spotify_name": "Simone",
+        "clashfinder_name": "Simone",
+        "start_time": 1724419500.0,
+        "end_time": 1724422200.0,
+        "stage_name": "Chevron Stage",
+        "stage_day": 1724367600.0
+    },
+    "1DjYfGxpROAacO07tajyAO": {
+        "id": "1DjYfGxpROAacO07tajyAO",
+        "spotify_name": "KiLLOWEN",
+        "clashfinder_name": "Killowen",
+        "start_time": 1724424000.0,
+        "end_time": 1724426700.0,
+        "stage_name": "Chevron Stage",
+        "stage_day": 1724367600.0
+    },
+    "78UYwUXnotbqcp2NTxjujP": {
+        "id": "78UYwUXnotbqcp2NTxjujP",
+        "spotify_name": "SOTA",
+        "clashfinder_name": "Sota",
+        "start_time": 1724428500.0,
+        "end_time": 1724430900.0,
+        "stage_name": "Chevron Stage",
+        "stage_day": 1724367600.0
+    },
+    "7uMDnSZyUYNBPLhPMNuaM2": {
+        "id": "7uMDnSZyUYNBPLhPMNuaM2",
+        "spotify_name": "Kenya Grace",
+        "clashfinder_name": "Kenya Grace",
+        "start_time": 1724432700.0,
+        "end_time": 1724435100.0,
+        "stage_name": "Chevron Stage",
+        "stage_day": 1724367600.0
+    },
+    "6fxyWrfmjcbj5d12gXeiNV": {
+        "id": "6fxyWrfmjcbj5d12gXeiNV",
+        "spotify_name": "Denzel Curry",
+        "clashfinder_name": "Denzel Curry",
+        "start_time": 1724436900.0,
+        "end_time": 1724439600.0,
+        "stage_name": "Chevron Stage",
+        "stage_day": 1724367600.0
+    },
+    "35dxfY1wywqVRUEaVuMm13": {
+        "id": "35dxfY1wywqVRUEaVuMm13",
+        "spotify_name": "Bou",
+        "clashfinder_name": "Bou",
+        "start_time": 1724441100.0,
+        "end_time": 1724443800.0,
+        "stage_name": "Chevron Stage",
+        "stage_day": 1724367600.0
+    },
+    "4k1ELeJKT1ISyDv8JivPpB": {
+        "id": "4k1ELeJKT1ISyDv8JivPpB",
+        "spotify_name": "The Prodigy",
+        "clashfinder_name": "The Prodigy",
+        "start_time": 1724446500.0,
+        "end_time": 1724451300.0,
+        "stage_name": "Chevron Stage",
+        "stage_day": 1724367600.0
+    },
+    "3IR7IZxn5xxDAf6mSprKci": {
+        "id": "3IR7IZxn5xxDAf6mSprKci",
+        "spotify_name": "Kid Brunswick",
+        "clashfinder_name": "Kid Brunswick",
+        "start_time": 1724424000.0,
+        "end_time": 1724426700.0,
+        "stage_name": "Radio 1 Stage",
+        "stage_day": 1724367600.0
+    },
+    "7iNrvS80wnHDGVxw3qNRiI": {
+        "id": "7iNrvS80wnHDGVxw3qNRiI",
+        "spotify_name": "CHINCHILLA",
+        "clashfinder_name": "Chinchilla",
+        "start_time": 1724428500.0,
+        "end_time": 1724430900.0,
+        "stage_name": "Radio 1 Stage",
+        "stage_day": 1724367600.0
+    },
+    "1CoZyIx7UvdxT5c8UkMzHd": {
+        "id": "1CoZyIx7UvdxT5c8UkMzHd",
+        "spotify_name": "Jorja Smith",
+        "clashfinder_name": "Jorja Smith",
+        "start_time": 1724446500.0,
+        "end_time": 1724451300.0,
+        "stage_name": "Radio 1 Stage",
+        "stage_day": 1724367600.0
+    },
+    "3hmNB1OCsGQVf8ttZy01e2": {
+        "id": "3hmNB1OCsGQVf8ttZy01e2",
+        "spotify_name": "BIG SPECIAL",
+        "clashfinder_name": "Big Special",
+        "start_time": 1724419800.0,
+        "end_time": 1724421900.0,
+        "stage_name": "Festival Republic Stage",
+        "stage_day": 1724367600.0
+    },
+    "6cpzd2aRLmkE06P4lFFMlj": {
+        "id": "6cpzd2aRLmkE06P4lFFMlj",
+        "spotify_name": "Spiritual Cramp",
+        "clashfinder_name": "Spiritual Cramp",
+        "start_time": 1724423700.0,
+        "end_time": 1724425500.0,
+        "stage_name": "Festival Republic Stage",
+        "stage_day": 1724367600.0
+    },
+    "6VR4TJ20WGiho2xZWMuuWb": {
+        "id": "6VR4TJ20WGiho2xZWMuuWb",
+        "spotify_name": "Lambrini Girls",
+        "clashfinder_name": "Lambrini Girls",
+        "start_time": 1724427300.0,
+        "end_time": 1724429700.0,
+        "stage_name": "Festival Republic Stage",
+        "stage_day": 1724367600.0
+    },
+    "7IPyXY4ZHkuvQY1ny8TnMQ": {
+        "id": "7IPyXY4ZHkuvQY1ny8TnMQ",
+        "spotify_name": "Bad Nerves",
+        "clashfinder_name": "Bad Nerves",
+        "start_time": 1724431500.0,
+        "end_time": 1724433900.0,
+        "stage_name": "Festival Republic Stage",
+        "stage_day": 1724367600.0
+    },
+    "33yje3hgpNfdXpqdJQcrt9": {
+        "id": "33yje3hgpNfdXpqdJQcrt9",
+        "spotify_name": "Mannequin Pussy",
+        "clashfinder_name": "Mannequin Pussy",
+        "start_time": 1724435700.0,
+        "end_time": 1724438100.0,
+        "stage_name": "Festival Republic Stage",
+        "stage_day": 1724367600.0
+    },
+    "1MP7xlABJ13LtmHfG77SCJ": {
+        "id": "1MP7xlABJ13LtmHfG77SCJ",
+        "spotify_name": "Loveless",
+        "clashfinder_name": "Loveless",
+        "start_time": 1724439900.0,
+        "end_time": 1724442300.0,
+        "stage_name": "Festival Republic Stage",
+        "stage_day": 1724367600.0
+    },
+    "6kNKUYGn6VNGsRoXmyoDPK": {
+        "id": "6kNKUYGn6VNGsRoXmyoDPK",
+        "spotify_name": "The Amity Affliction",
+        "clashfinder_name": "The Amity Affliction",
+        "start_time": 1724444100.0,
+        "end_time": 1724446800.0,
+        "stage_name": "Festival Republic Stage",
+        "stage_day": 1724367600.0
+    },
+    "3oLTaC5QBOH96VbxMAafpZ": {
+        "id": "3oLTaC5QBOH96VbxMAafpZ",
+        "spotify_name": "Courting",
+        "clashfinder_name": "Courting",
+        "start_time": 1724502300.0,
+        "end_time": 1724504100.0,
+        "stage_name": "Main Stage",
+        "stage_day": 1724454000.0
+    },
+    "5SHgclK1ZpTdfdAmXW7J6s": {
+        "id": "5SHgclK1ZpTdfdAmXW7J6s",
+        "spotify_name": "The Last Dinner Party",
+        "clashfinder_name": "The Last Dinner Party",
+        "start_time": 1724505900.0,
+        "end_time": 1724508000.0,
+        "stage_name": "Main Stage",
+        "stage_day": 1724454000.0
+    },
+    "2eam0iDomRHGBypaDQLwWI": {
+        "id": "2eam0iDomRHGBypaDQLwWI",
+        "spotify_name": "Bleachers",
+        "clashfinder_name": "Bleachers",
+        "start_time": 1724509800.0,
+        "end_time": 1724511900.0,
+        "stage_name": "Main Stage",
+        "stage_day": 1724454000.0
+    },
+    "3SXwqSqAoBz9WCI9PDQzY6": {
+        "id": "3SXwqSqAoBz9WCI9PDQzY6",
+        "spotify_name": "Fontaines D.C.",
+        "clashfinder_name": "Fontaines D.C.",
+        "start_time": 1724513700.0,
+        "end_time": 1724516700.0,
+        "stage_name": "Main Stage",
+        "stage_day": 1724454000.0
+    },
+    "5KKpBU5eC2tJDzf0wmlRp2": {
+        "id": "5KKpBU5eC2tJDzf0wmlRp2",
+        "spotify_name": "RAYE",
+        "clashfinder_name": "Raye",
+        "start_time": 1724518500.0,
+        "end_time": 1724522700.0,
+        "stage_name": "Main Stage",
+        "stage_day": 1724454000.0
+    },
+    "00FQb4jTyendYWaN8pK0wa": {
+        "id": "00FQb4jTyendYWaN8pK0wa",
+        "spotify_name": "Lana Del Rey",
+        "clashfinder_name": "Lana Del Rey",
+        "start_time": 1724524800.0,
+        "end_time": 1724529600.0,
+        "stage_name": "Main Stage",
+        "stage_day": 1724454000.0
+    },
+    "4oLeXFyACqeem2VImYeBFe": {
+        "id": "4oLeXFyACqeem2VImYeBFe",
+        "spotify_name": "Fred again..",
+        "clashfinder_name": "Fred again..",
+        "start_time": 1724532600.0,
+        "end_time": 1724538000.0,
+        "stage_name": "Main Stage",
+        "stage_day": 1724454000.0
+    },
+    "0d44JahSUHqjM6UTn1y8IX": {
+        "id": "0d44JahSUHqjM6UTn1y8IX",
+        "spotify_name": "DJ Jackum",
+        "clashfinder_name": "DJ Jackum",
+        "start_time": 1724505900.0,
+        "end_time": 1724508600.0,
+        "stage_name": "Chevron Stage",
+        "stage_day": 1724454000.0
+    },
+    "7nrVhzPUJsigF7rt9BL9jQ": {
+        "id": "7nrVhzPUJsigF7rt9BL9jQ",
+        "spotify_name": "4am Kru",
+        "clashfinder_name": "4AM KRU",
+        "start_time": 1724514900.0,
+        "end_time": 1724517300.0,
+        "stage_name": "Chevron Stage",
+        "stage_day": 1724454000.0
+    },
+    "3yDDYheQFqfhKZXdjFQuuP": {
+        "id": "3yDDYheQFqfhKZXdjFQuuP",
+        "spotify_name": "goddard.",
+        "clashfinder_name": "Goddard",
+        "start_time": 1724519100.0,
+        "end_time": 1724521500.0,
+        "stage_name": "Chevron Stage",
+        "stage_day": 1724454000.0
+    },
+    "57n1OF36WvtOeATY6WQ6iw": {
+        "id": "57n1OF36WvtOeATY6WQ6iw",
+        "spotify_name": "Digga D",
+        "clashfinder_name": "Digga D",
+        "start_time": 1724523300.0,
+        "end_time": 1724526000.0,
+        "stage_name": "Chevron Stage",
+        "stage_day": 1724454000.0
+    },
+    "0vTVU0KH0CVzijsoKGsTPl": {
+        "id": "0vTVU0KH0CVzijsoKGsTPl",
+        "spotify_name": "Barry Can't Swim",
+        "clashfinder_name": "Barry Can't Swim",
+        "start_time": 1724527500.0,
+        "end_time": 1724530200.0,
+        "stage_name": "Chevron Stage",
+        "stage_day": 1724454000.0
+    },
+    "39B7ChWwrWDs7zXlsu3MoP": {
+        "id": "39B7ChWwrWDs7zXlsu3MoP",
+        "spotify_name": "Sonny Fodera",
+        "clashfinder_name": "Sonny Fodera",
+        "start_time": 1724532900.0,
+        "end_time": 1724537400.0,
+        "stage_name": "Chevron Stage",
+        "stage_day": 1724454000.0
+    },
+    "5YgOA27qcu8nSl1lp5ektj": {
+        "id": "5YgOA27qcu8nSl1lp5ektj",
+        "spotify_name": "Zach Templar",
+        "clashfinder_name": "Zach Templar",
+        "start_time": 1724510400.0,
+        "end_time": 1724513100.0,
+        "stage_name": "Radio 1 Stage",
+        "stage_day": 1724454000.0
+    },
+    "41pd7r1XBRsvdxY3vHEgib": {
+        "id": "41pd7r1XBRsvdxY3vHEgib",
+        "spotify_name": "Wunderhorse",
+        "clashfinder_name": "Wunderhorse",
+        "start_time": 1724514600.0,
+        "end_time": 1724517300.0,
+        "stage_name": "Radio 1 Stage",
+        "stage_day": 1724454000.0
+    },
+    "6ws5XBA70XgeBpnLZhQBoy": {
+        "id": "6ws5XBA70XgeBpnLZhQBoy",
+        "spotify_name": "The Beaches",
+        "clashfinder_name": "The Beaches",
+        "start_time": 1724518800.0,
+        "end_time": 1724521500.0,
+        "stage_name": "Radio 1 Stage",
+        "stage_day": 1724454000.0
+    },
+    "01PnN11ovfen6xUOHfNpn3": {
+        "id": "01PnN11ovfen6xUOHfNpn3",
+        "spotify_name": "Overmono",
+        "clashfinder_name": "Overmono",
+        "start_time": 1724523300.0,
+        "end_time": 1724526000.0,
+        "stage_name": "Radio 1 Stage",
+        "stage_day": 1724454000.0
+    },
+    "67R8l2OLqGwA9V4BKllYQY": {
+        "id": "67R8l2OLqGwA9V4BKllYQY",
+        "spotify_name": "Skrapz",
+        "clashfinder_name": "Skrapz",
+        "start_time": 1724527500.0,
+        "end_time": 1724530200.0,
+        "stage_name": "Radio 1 Stage",
+        "stage_day": 1724454000.0
+    },
+    "0Ya43ZKWHTKkAbkoJJkwIB": {
+        "id": "0Ya43ZKWHTKkAbkoJJkwIB",
+        "spotify_name": "The Wombats",
+        "clashfinder_name": "The Wombats",
+        "start_time": 1724532900.0,
+        "end_time": 1724537700.0,
+        "stage_name": "Radio 1 Stage",
+        "stage_day": 1724454000.0
+    },
+    "3lGO6uBIzoFyU6OoGMER1B": {
+        "id": "3lGO6uBIzoFyU6OoGMER1B",
+        "spotify_name": "Dead Pony",
+        "clashfinder_name": "Dead Pony",
+        "start_time": 1724501100.0,
+        "end_time": 1724503500.0,
+        "stage_name": "Festival Republic Stage",
+        "stage_day": 1724454000.0
+    },
+    "6BCpGC485tSshwjemmeAmd": {
+        "id": "6BCpGC485tSshwjemmeAmd",
+        "spotify_name": "The Scratch",
+        "clashfinder_name": "The Scratch",
+        "start_time": 1724509500.0,
+        "end_time": 1724511900.0,
+        "stage_name": "Festival Republic Stage",
+        "stage_day": 1724454000.0
+    },
+    "4pxPgYcyw9sLMXiim3GEv2": {
+        "id": "4pxPgYcyw9sLMXiim3GEv2",
+        "spotify_name": "Yours Truly",
+        "clashfinder_name": "Yours Truly",
+        "start_time": 1724513700.0,
+        "end_time": 1724516100.0,
+        "stage_name": "Festival Republic Stage",
+        "stage_day": 1724454000.0
+    },
+    "1pdiVBF8SDDpleSjlNhP8C": {
+        "id": "1pdiVBF8SDDpleSjlNhP8C",
+        "spotify_name": "Deijuvhs",
+        "clashfinder_name": "Deijuvhs",
+        "start_time": 1724517900.0,
+        "end_time": 1724520300.0,
+        "stage_name": "Festival Republic Stage",
+        "stage_day": 1724454000.0
+    },
+    "4us4NMG5wuqdUZvthZrj0Q": {
+        "id": "4us4NMG5wuqdUZvthZrj0Q",
+        "spotify_name": "Militarie Gun",
+        "clashfinder_name": "Militarie Gun",
+        "start_time": 1724522100.0,
+        "end_time": 1724524500.0,
+        "stage_name": "Festival Republic Stage",
+        "stage_day": 1724454000.0
+    },
+    "4G9wSdX0klmoHfjm9i6DLd": {
+        "id": "4G9wSdX0klmoHfjm9i6DLd",
+        "spotify_name": "Loathe",
+        "clashfinder_name": "Loathe",
+        "start_time": 1724530500.0,
+        "end_time": 1724533200.0,
+        "stage_name": "Festival Republic Stage",
+        "stage_day": 1724454000.0
+    },
+    "2nAKP6etu8wXNnezKXgqgg": {
+        "id": "2nAKP6etu8wXNnezKXgqgg",
+        "spotify_name": "Viagra Boys",
+        "clashfinder_name": "Viagra Boys",
+        "start_time": 1724535000.0,
+        "end_time": 1724537700.0,
+        "stage_name": "Festival Republic Stage",
+        "stage_day": 1724454000.0
+    },
+    "5LoyxydilSHtcohX3rSRXe": {
+        "id": "5LoyxydilSHtcohX3rSRXe",
+        "spotify_name": "Corella",
+        "clashfinder_name": "Corella",
+        "start_time": 1724585100.0,
+        "end_time": 1724586900.0,
+        "stage_name": "Main Stage",
+        "stage_day": 1724540400.0
+    },
+    "2xtmoxSauQs0TQFUoHmbfy": {
+        "id": "2xtmoxSauQs0TQFUoHmbfy",
+        "spotify_name": "Crawlers",
+        "clashfinder_name": "Crawlers",
+        "start_time": 1724588700.0,
+        "end_time": 1724590500.0,
+        "stage_name": "Main Stage",
+        "stage_day": 1724540400.0
+    },
+    "7GDrXlpRrdG29o4n0pNR5D": {
+        "id": "7GDrXlpRrdG29o4n0pNR5D",
+        "spotify_name": "Bru-C",
+        "clashfinder_name": "Bru-C",
+        "start_time": 1724592300.0,
+        "end_time": 1724594400.0,
+        "stage_name": "Main Stage",
+        "stage_day": 1724540400.0
+    },
+    "2hUYKu1x0UZQXvzCmggvSn": {
+        "id": "2hUYKu1x0UZQXvzCmggvSn",
+        "spotify_name": "Rene\u00e9 Rapp",
+        "clashfinder_name": "Renee Rapp",
+        "start_time": 1724596200.0,
+        "end_time": 1724598300.0,
+        "stage_name": "Main Stage",
+        "stage_day": 1724540400.0
+    },
+    "1URnnhqYAYcrqrcwql10ft": {
+        "id": "1URnnhqYAYcrqrcwql10ft",
+        "spotify_name": "21 Savage",
+        "clashfinder_name": "21 Savage",
+        "start_time": 1724600100.0,
+        "end_time": 1724603100.0,
+        "stage_name": "Main Stage",
+        "stage_day": 1724540400.0
+    },
+    "2xaAOVImG2O6lURwqperlD": {
+        "id": "2xaAOVImG2O6lURwqperlD",
+        "spotify_name": "Catfish and the Bottlemen",
+        "clashfinder_name": "Catfish and the Bottlemen",
+        "start_time": 1724611200.0,
+        "end_time": 1724616000.0,
+        "stage_name": "Main Stage",
+        "stage_day": 1724540400.0
+    },
+    "6sN51vEARnAAdBw1IKZ8Q9": {
+        "id": "6sN51vEARnAAdBw1IKZ8Q9",
+        "spotify_name": "Liam Gallagher",
+        "clashfinder_name": "Liam Gallagher",
+        "start_time": 1724619000.0,
+        "end_time": 1724624400.0,
+        "stage_name": "Main Stage",
+        "stage_day": 1724540400.0
+    },
+    "14MtanGZe4G1fzC8raLFUK": {
+        "id": "14MtanGZe4G1fzC8raLFUK",
+        "spotify_name": "Danny Howard",
+        "clashfinder_name": "Danny Howard",
+        "start_time": 1724601300.0,
+        "end_time": 1724603700.0,
+        "stage_name": "Chevron Stage",
+        "stage_day": 1724540400.0
+    },
+    "1rHOtdmGNr5vcYNw5v7QGC": {
+        "id": "1rHOtdmGNr5vcYNw5v7QGC",
+        "spotify_name": "Kenny Beats",
+        "clashfinder_name": "Kenny Beats",
+        "start_time": 1724605500.0,
+        "end_time": 1724607900.0,
+        "stage_name": "Chevron Stage",
+        "stage_day": 1724540400.0
+    },
+    "205i7E8fNVfojowcQSfK9m": {
+        "id": "205i7E8fNVfojowcQSfK9m",
+        "spotify_name": "Dom Dolla",
+        "clashfinder_name": "Dom Dolla",
+        "start_time": 1724609700.0,
+        "end_time": 1724612400.0,
+        "stage_name": "Chevron Stage",
+        "stage_day": 1724540400.0
+    },
+    "7BMR0fwtEvzGtK4rNGdoiQ": {
+        "id": "7BMR0fwtEvzGtK4rNGdoiQ",
+        "spotify_name": "Nia Archives",
+        "clashfinder_name": "Nia Archives",
+        "start_time": 1724613900.0,
+        "end_time": 1724616600.0,
+        "stage_name": "Chevron Stage",
+        "stage_day": 1724540400.0
+    },
+    "5he5w2lnU9x7JFhnwcekXX": {
+        "id": "5he5w2lnU9x7JFhnwcekXX",
+        "spotify_name": "Skrillex",
+        "clashfinder_name": "Skrillex",
+        "start_time": 1724619300.0,
+        "end_time": 1724624100.0,
+        "stage_name": "Chevron Stage",
+        "stage_day": 1724540400.0
+    },
+    "7KeN0XX71T4fGysIYLB5J5": {
+        "id": "7KeN0XX71T4fGysIYLB5J5",
+        "spotify_name": "Destroy Boys",
+        "clashfinder_name": "Destroy Boys",
+        "start_time": 1724601300.0,
+        "end_time": 1724603700.0,
+        "stage_name": "Radio 1 Stage",
+        "stage_day": 1724540400.0
+    },
+    "14apS9tKI3K30GK92BNQUL": {
+        "id": "14apS9tKI3K30GK92BNQUL",
+        "spotify_name": "James Marriott",
+        "clashfinder_name": "James Marriott",
+        "start_time": 1724605500.0,
+        "end_time": 1724607900.0,
+        "stage_name": "Radio 1 Stage",
+        "stage_day": 1724540400.0
+    },
+    "4as3khXWaPjfkFdCA0JWMo": {
+        "id": "4as3khXWaPjfkFdCA0JWMo",
+        "spotify_name": "Jesse\u00ae",
+        "clashfinder_name": "Jesse",
+        "start_time": 1724609700.0,
+        "end_time": 1724612400.0,
+        "stage_name": "Radio 1 Stage",
+        "stage_day": 1724540400.0
+    },
+    "3PyJHH2wyfQK3WZrk9rpmP": {
+        "id": "3PyJHH2wyfQK3WZrk9rpmP",
+        "spotify_name": "Ashnikko",
+        "clashfinder_name": "Ashnikko",
+        "start_time": 1724613900.0,
+        "end_time": 1724616600.0,
+        "stage_name": "Radio 1 Stage",
+        "stage_day": 1724540400.0
+    },
+    "2EXpthNgSeTDeX8nGwxppp": {
+        "id": "2EXpthNgSeTDeX8nGwxppp",
+        "spotify_name": "Paris Paloma",
+        "clashfinder_name": "Paris Paloma",
+        "start_time": 1724587500.0,
+        "end_time": 1724589900.0,
+        "stage_name": "Festival Republic Stage",
+        "stage_day": 1724540400.0
+    },
+    "6c2qQFq3xfxFJndX6wSe4f": {
+        "id": "6c2qQFq3xfxFJndX6wSe4f",
+        "spotify_name": "Kingfishr",
+        "clashfinder_name": "Kingfishr",
+        "start_time": 1724591700.0,
+        "end_time": 1724594100.0,
+        "stage_name": "Festival Republic Stage",
+        "stage_day": 1724540400.0
+    },
+    "28WNtilgFPn1mdz3h0FjHl": {
+        "id": "28WNtilgFPn1mdz3h0FjHl",
+        "spotify_name": "Mackenzy Mackay",
+        "clashfinder_name": "Mackenzy Mackay",
+        "start_time": 1724595900.0,
+        "end_time": 1724598300.0,
+        "stage_name": "Festival Republic Stage",
+        "stage_day": 1724540400.0
+    },
+    "6Fe2C2iHDbs3yoKRvtVtdg": {
+        "id": "6Fe2C2iHDbs3yoKRvtVtdg",
+        "spotify_name": "Arthur Hill",
+        "clashfinder_name": "Arthur Hill",
+        "start_time": 1724600100.0,
+        "end_time": 1724602500.0,
+        "stage_name": "Festival Republic Stage",
+        "stage_day": 1724540400.0
+    },
+    "3Z40kLBFU7C8532e2YLE9t": {
+        "id": "3Z40kLBFU7C8532e2YLE9t",
+        "spotify_name": "Only The Poets",
+        "clashfinder_name": "Only The Poets",
+        "start_time": 1724604300.0,
+        "end_time": 1724606700.0,
+        "stage_name": "Festival Republic Stage",
+        "stage_day": 1724540400.0
+    },
+    "12j6dJrPXanCBwY599pZxf": {
+        "id": "12j6dJrPXanCBwY599pZxf",
+        "spotify_name": "Matt Maltese",
+        "clashfinder_name": "Matt Maltese",
+        "start_time": 1724608500.0,
+        "end_time": 1724610900.0,
+        "stage_name": "Festival Republic Stage",
+        "stage_day": 1724540400.0
+    },
+    "5QsqiLFA5Z2gmpKBbxQB2j": {
+        "id": "5QsqiLFA5Z2gmpKBbxQB2j",
+        "spotify_name": "Hak Baker",
+        "clashfinder_name": "Hak Baker",
+        "start_time": 1724616900.0,
+        "end_time": 1724619600.0,
+        "stage_name": "Festival Republic Stage",
+        "stage_day": 1724540400.0
+    },
+    "3IunaFjvNKj98JW89JYv9u": {
+        "id": "3IunaFjvNKj98JW89JYv9u",
+        "spotify_name": "The Japanese House",
+        "clashfinder_name": "The Japanese House",
+        "start_time": 1724621400.0,
+        "end_time": 1724624100.0,
+        "stage_name": "Festival Republic Stage",
+        "stage_day": 1724540400.0
+    }
+}

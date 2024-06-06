@@ -1,0 +1,641 @@
+{
+    "0LMkPoi2xIgpOPUSJMftqM": {
+        "id": "0LMkPoi2xIgpOPUSJMftqM",
+        "spotify_name": "WITCH",
+        "clashfinder_name": "WITCH",
+        "start_time": 1721991600.0,
+        "end_time": 1721995200.0,
+        "stage_name": "Obelisk Arena",
+        "stage_day": 1721948400.0
+    },
+    "27M9shmwhIjRo7WntpT9Rp": {
+        "id": "27M9shmwhIjRo7WntpT9Rp",
+        "spotify_name": "Frank Turner",
+        "clashfinder_name": "Frank Turner",
+        "start_time": 1721997000.0,
+        "end_time": 1722000600.0,
+        "stage_name": "Obelisk Arena",
+        "stage_day": 1721948400.0
+    },
+    "5IWCU0V9evBlW4gIeGY4zF": {
+        "id": "5IWCU0V9evBlW4gIeGY4zF",
+        "spotify_name": "Waxahatchee",
+        "clashfinder_name": "Waxahatchee",
+        "start_time": 1722002400.0,
+        "end_time": 1722006000.0,
+        "stage_name": "Obelisk Arena",
+        "stage_day": 1721948400.0
+    },
+    "7dJCdUO0l0K2WXzrzjYpmC": {
+        "id": "7dJCdUO0l0K2WXzrzjYpmC",
+        "spotify_name": "Caity Baser",
+        "clashfinder_name": "Caity Baser",
+        "start_time": 1722007500.0,
+        "end_time": 1722011100.0,
+        "stage_name": "Obelisk Arena",
+        "stage_day": 1721948400.0
+    },
+    "7AZm56bjPk0tYl6LTyJu9N": {
+        "id": "7AZm56bjPk0tYl6LTyJu9N",
+        "spotify_name": "Blusher",
+        "clashfinder_name": "Blusher",
+        "start_time": 1721991900.0,
+        "end_time": 1721994900.0,
+        "stage_name": "Second Stage",
+        "stage_day": 1721948400.0
+    },
+    "2YfbBP050Xr7rbtPl1Iypg": {
+        "id": "2YfbBP050Xr7rbtPl1Iypg",
+        "spotify_name": "Charlotte Day Wilson",
+        "clashfinder_name": "Charlotte Day Wilson",
+        "start_time": 1722001500.0,
+        "end_time": 1722004200.0,
+        "stage_name": "Second Stage",
+        "stage_day": 1721948400.0
+    },
+    "20R6sAvzVdutpZtmyr3hue": {
+        "id": "20R6sAvzVdutpZtmyr3hue",
+        "spotify_name": "Damian Lewis",
+        "clashfinder_name": "Damian Lewis",
+        "start_time": 1722006300.0,
+        "end_time": 1722009000.0,
+        "stage_name": "Second Stage",
+        "stage_day": 1721948400.0
+    },
+    "3cePP77CX6XY9b0aigzrqh": {
+        "id": "3cePP77CX6XY9b0aigzrqh",
+        "spotify_name": "BC Camplight",
+        "clashfinder_name": "BC Camplight",
+        "start_time": 1722010500.0,
+        "end_time": 1722014100.0,
+        "stage_name": "Second Stage",
+        "stage_day": 1721948400.0
+    },
+    "72f5AR6hMeL3BwtcO7HqhS": {
+        "id": "72f5AR6hMeL3BwtcO7HqhS",
+        "spotify_name": "Alison Goldfrapp",
+        "clashfinder_name": "Alison Goldfrapp",
+        "start_time": 1722021300.0,
+        "end_time": 1722024900.0,
+        "stage_name": "Second Stage",
+        "stage_day": 1721948400.0
+    },
+    "1WvvwcQx0tj6NdDhZZ2zZz": {
+        "id": "1WvvwcQx0tj6NdDhZZ2zZz",
+        "spotify_name": "Future Islands",
+        "clashfinder_name": "Future Islands",
+        "start_time": 1722027000.0,
+        "end_time": 1722030600.0,
+        "stage_name": "Second Stage",
+        "stage_day": 1721948400.0
+    },
+    "2rjGbM0H8EUQzTVx6BgUlG": {
+        "id": "2rjGbM0H8EUQzTVx6BgUlG",
+        "spotify_name": "Ang\u00e9lica Garcia",
+        "clashfinder_name": "Ang\u00e9lica Garcia",
+        "start_time": 1721994900.0,
+        "end_time": 1721996700.0,
+        "stage_name": "Sunrise Arena",
+        "stage_day": 1721948400.0
+    },
+    "7N3uZZGaea8CxH6SoFyCpr": {
+        "id": "7N3uZZGaea8CxH6SoFyCpr",
+        "spotify_name": "Cosmorat",
+        "clashfinder_name": "Cosmorat",
+        "start_time": 1721998500.0,
+        "end_time": 1722000300.0,
+        "stage_name": "Sunrise Arena",
+        "stage_day": 1721948400.0
+    },
+    "1ZzqxDkqNDAJVaNO1xue3P": {
+        "id": "1ZzqxDkqNDAJVaNO1xue3P",
+        "spotify_name": "Fabiana Palladino",
+        "clashfinder_name": "Fabiana Palladino",
+        "start_time": 1722005400.0,
+        "end_time": 1722007800.0,
+        "stage_name": "Sunrise Arena",
+        "stage_day": 1721948400.0
+    },
+    "4DLjEphXbW7qIhX4iwmNEe": {
+        "id": "4DLjEphXbW7qIhX4iwmNEe",
+        "spotify_name": "Fat Dog",
+        "clashfinder_name": "Fat Dog",
+        "start_time": 1722009300.0,
+        "end_time": 1722011700.0,
+        "stage_name": "Sunrise Arena",
+        "stage_day": 1721948400.0
+    },
+    "1mYgKcXdbklH5RwjU6XA8c": {
+        "id": "1mYgKcXdbklH5RwjU6XA8c",
+        "spotify_name": "Sekou",
+        "clashfinder_name": "Sekou",
+        "start_time": 1722013200.0,
+        "end_time": 1722015600.0,
+        "stage_name": "Sunrise Arena",
+        "stage_day": 1721948400.0
+    },
+    "4T4JE09FOmRgv2Wzb6JaOR": {
+        "id": "4T4JE09FOmRgv2Wzb6JaOR",
+        "spotify_name": "Willie J Healey",
+        "clashfinder_name": "Willie J Healey",
+        "start_time": 1722017700.0,
+        "end_time": 1722020100.0,
+        "stage_name": "Sunrise Arena",
+        "stage_day": 1721948400.0
+    },
+    "2TDMep1IfMAASZxbC5FAo5": {
+        "id": "2TDMep1IfMAASZxbC5FAo5",
+        "spotify_name": "UNIVERSITY",
+        "clashfinder_name": "University",
+        "start_time": 1722022500.0,
+        "end_time": 1722024900.0,
+        "stage_name": "Sunrise Arena",
+        "stage_day": 1721948400.0
+    },
+    "3SCI7sXHUZIeDKMWC5NT9C": {
+        "id": "3SCI7sXHUZIeDKMWC5NT9C",
+        "spotify_name": "Armand Hammer",
+        "clashfinder_name": "Armand Hammer",
+        "start_time": 1722027600.0,
+        "end_time": 1722031200.0,
+        "stage_name": "Sunrise Arena",
+        "stage_day": 1721948400.0
+    },
+    "7h5ZCPVyKFtXc8NxOVmgMD": {
+        "id": "7h5ZCPVyKFtXc8NxOVmgMD",
+        "spotify_name": "Anna St. Louis",
+        "clashfinder_name": "Anna St Louis",
+        "start_time": 1721995200.0,
+        "end_time": 1721997600.0,
+        "stage_name": "Alcove",
+        "stage_day": 1721948400.0
+    },
+    "1uxnfBJssIJmSQUiuOB77l": {
+        "id": "1uxnfBJssIJmSQUiuOB77l",
+        "spotify_name": "The New Eves",
+        "clashfinder_name": "The New Eves",
+        "start_time": 1721999400.0,
+        "end_time": 1722001800.0,
+        "stage_name": "Alcove",
+        "stage_day": 1721948400.0
+    },
+    "238uE9s8BDKrIYbzpxIgOX": {
+        "id": "238uE9s8BDKrIYbzpxIgOX",
+        "spotify_name": "Gia Ford",
+        "clashfinder_name": "Gia Ford",
+        "start_time": 1722007800.0,
+        "end_time": 1722010200.0,
+        "stage_name": "Alcove",
+        "stage_day": 1721948400.0
+    },
+    "3pS4Tt6b6z9B6WUu5RGvWc": {
+        "id": "3pS4Tt6b6z9B6WUu5RGvWc",
+        "spotify_name": "Circe",
+        "clashfinder_name": "Circe",
+        "start_time": 1722012000.0,
+        "end_time": 1722014400.0,
+        "stage_name": "Alcove",
+        "stage_day": 1721948400.0
+    },
+    "2LikjKVyI5gqANlB9S7DNW": {
+        "id": "2LikjKVyI5gqANlB9S7DNW",
+        "spotify_name": "Ebbb",
+        "clashfinder_name": "Ebbb",
+        "start_time": 1722016200.0,
+        "end_time": 1722018600.0,
+        "stage_name": "Alcove",
+        "stage_day": 1721948400.0
+    },
+    "4JmdjFkc5idTTSkfwqzlVc": {
+        "id": "4JmdjFkc5idTTSkfwqzlVc",
+        "spotify_name": "Welly",
+        "clashfinder_name": "Welly",
+        "start_time": 1722020400.0,
+        "end_time": 1722023100.0,
+        "stage_name": "Alcove",
+        "stage_day": 1721948400.0
+    },
+    "4MfUQ99z2kgMnl9hAwffBx": {
+        "id": "4MfUQ99z2kgMnl9hAwffBx",
+        "spotify_name": "DEADLETTER",
+        "clashfinder_name": "Deadletter",
+        "start_time": 1722024900.0,
+        "end_time": 1722027600.0,
+        "stage_name": "Alcove",
+        "stage_day": 1721948400.0
+    },
+    "0gxyHStUsqpMadRV0Di1Qt": {
+        "id": "0gxyHStUsqpMadRV0Di1Qt",
+        "spotify_name": "Rick Astley",
+        "clashfinder_name": "Rick Astley",
+        "start_time": 1722096600.0,
+        "end_time": 1722100200.0,
+        "stage_name": "Obelisk Arena",
+        "stage_day": 1722034800.0
+    },
+    "53A0W3U0s8diEn9RhXQhVz": {
+        "id": "53A0W3U0s8diEn9RhXQhVz",
+        "spotify_name": "Keane",
+        "clashfinder_name": "Keane",
+        "start_time": 1722102900.0,
+        "end_time": 1722108300.0,
+        "stage_name": "Obelisk Arena",
+        "stage_day": 1722034800.0
+    },
+    "3Bd1cgCjtCI32PYvDC3ynO": {
+        "id": "3Bd1cgCjtCI32PYvDC3ynO",
+        "spotify_name": "London Grammar",
+        "clashfinder_name": "London Grammar",
+        "start_time": 1722110400.0,
+        "end_time": 1722117600.0,
+        "stage_name": "Obelisk Arena",
+        "stage_day": 1722034800.0
+    },
+    "3bO19AOone0ubCsfDXDtYt": {
+        "id": "3bO19AOone0ubCsfDXDtYt",
+        "spotify_name": "Myles Smith",
+        "clashfinder_name": "Myles Smith",
+        "start_time": 1722080700.0,
+        "end_time": 1722083400.0,
+        "stage_name": "Second Stage",
+        "stage_day": 1722034800.0
+    },
+    "1odn2oz1bEsGWugQ8W3zhn": {
+        "id": "1odn2oz1bEsGWugQ8W3zhn",
+        "spotify_name": "Antony Szmierek",
+        "clashfinder_name": "Antony Szmierek",
+        "start_time": 1722085800.0,
+        "end_time": 1722088800.0,
+        "stage_name": "Second Stage",
+        "stage_day": 1722034800.0
+    },
+    "4qU7IJSReZnsLy5907Mtau": {
+        "id": "4qU7IJSReZnsLy5907Mtau",
+        "spotify_name": "Richy Mitch & The Coal Miners",
+        "clashfinder_name": "Richy Mitch & The Coal Miners",
+        "start_time": 1722091200.0,
+        "end_time": 1722094200.0,
+        "stage_name": "Second Stage",
+        "stage_day": 1722034800.0
+    },
+    "3ccVtqcqedranb7y8eywJ5": {
+        "id": "3ccVtqcqedranb7y8eywJ5",
+        "spotify_name": "Blanco White",
+        "clashfinder_name": "Blanco White",
+        "start_time": 1722096600.0,
+        "end_time": 1722099600.0,
+        "stage_name": "Second Stage",
+        "stage_day": 1722034800.0
+    },
+    "7aLfd5azGVKmim6H38mZk2": {
+        "id": "7aLfd5azGVKmim6H38mZk2",
+        "spotify_name": "The Mary Wallopers",
+        "clashfinder_name": "The Mary Wallopers",
+        "start_time": 1722102000.0,
+        "end_time": 1722105600.0,
+        "stage_name": "Second Stage",
+        "stage_day": 1722034800.0
+    },
+    "3csPCeXsj2wezyvkRFzvmV": {
+        "id": "3csPCeXsj2wezyvkRFzvmV",
+        "spotify_name": "Orbital",
+        "clashfinder_name": "Orbital",
+        "start_time": 1722114000.0,
+        "end_time": 1722117600.0,
+        "stage_name": "Second Stage",
+        "stage_day": 1722034800.0
+    },
+    "52N3KGrTWDRhdQJrgBTofE": {
+        "id": "52N3KGrTWDRhdQJrgBTofE",
+        "spotify_name": "Good Neighbours",
+        "clashfinder_name": "Good Neighbours",
+        "start_time": 1722081300.0,
+        "end_time": 1722083100.0,
+        "stage_name": "Sunrise Arena",
+        "stage_day": 1722034800.0
+    },
+    "6wFwvxJkurQPU2UdeD4qVt": {
+        "id": "6wFwvxJkurQPU2UdeD4qVt",
+        "spotify_name": "The Jungle Giants",
+        "clashfinder_name": "The Jungle Giants",
+        "start_time": 1722084300.0,
+        "end_time": 1722086100.0,
+        "stage_name": "Sunrise Arena",
+        "stage_day": 1722034800.0
+    },
+    "38Nwgw6V5VjA2YnFoO8NX1": {
+        "id": "38Nwgw6V5VjA2YnFoO8NX1",
+        "spotify_name": "ikarus",
+        "clashfinder_name": "ikarus",
+        "start_time": 1722087300.0,
+        "end_time": 1722089100.0,
+        "stage_name": "Sunrise Arena",
+        "stage_day": 1722034800.0
+    },
+    "75BN2bMrpeLl89blBiaFuv": {
+        "id": "75BN2bMrpeLl89blBiaFuv",
+        "spotify_name": "Evian Christ",
+        "clashfinder_name": "Evian Christ",
+        "start_time": 1722114300.0,
+        "end_time": 1722117900.0,
+        "stage_name": "Sunrise Arena",
+        "stage_day": 1722034800.0
+    },
+    "35grJfkFf8zSwpMojTYhu1": {
+        "id": "35grJfkFf8zSwpMojTYhu1",
+        "spotify_name": "Kevin Drew",
+        "clashfinder_name": "Kevin Drew",
+        "start_time": 1722097800.0,
+        "end_time": 1722099600.0,
+        "stage_name": "Sunrise Arena",
+        "stage_day": 1722034800.0
+    },
+    "5MGxwE9JG5IA6uqswrgNL6": {
+        "id": "5MGxwE9JG5IA6uqswrgNL6",
+        "spotify_name": "Beak>",
+        "clashfinder_name": "Beak>",
+        "start_time": 1722105900.0,
+        "end_time": 1722107700.0,
+        "stage_name": "Sunrise Arena",
+        "stage_day": 1722034800.0
+    },
+    "48Kc3HRodbvm5ropMf9B6M": {
+        "id": "48Kc3HRodbvm5ropMf9B6M",
+        "spotify_name": "mary in the junkyard",
+        "clashfinder_name": "Mary in the Junkyard",
+        "start_time": 1722110100.0,
+        "end_time": 1722112500.0,
+        "stage_name": "Sunrise Arena",
+        "stage_day": 1722034800.0
+    },
+    "2E51tnARTxTvmYznDHfE5V": {
+        "id": "2E51tnARTxTvmYznDHfE5V",
+        "spotify_name": "Holly Macve",
+        "clashfinder_name": "Holly MacVe",
+        "start_time": 1722085800.0,
+        "end_time": 1722088200.0,
+        "stage_name": "Alcove",
+        "stage_day": 1722034800.0
+    },
+    "4n1vjpbmyeFvTvMJX1TL0v": {
+        "id": "4n1vjpbmyeFvTvMJX1TL0v",
+        "spotify_name": "Fred Roberts",
+        "clashfinder_name": "Fred Roberts",
+        "start_time": 1722090000.0,
+        "end_time": 1722092400.0,
+        "stage_name": "Alcove",
+        "stage_day": 1722034800.0
+    },
+    "0j3JsMUkjmRIqTi1xQ5dp0": {
+        "id": "0j3JsMUkjmRIqTi1xQ5dp0",
+        "spotify_name": "Lexie Carroll",
+        "clashfinder_name": "Lexie Carroll",
+        "start_time": 1722094200.0,
+        "end_time": 1722096600.0,
+        "stage_name": "Alcove",
+        "stage_day": 1722034800.0
+    },
+    "2uRvlfS3M0Fix0OdsEzSw8": {
+        "id": "2uRvlfS3M0Fix0OdsEzSw8",
+        "spotify_name": "daydreamers",
+        "clashfinder_name": "Daydreamers",
+        "start_time": 1722098400.0,
+        "end_time": 1722100800.0,
+        "stage_name": "Alcove",
+        "stage_day": 1722034800.0
+    },
+    "64Db5ZXKSHKOKC7h1brQck": {
+        "id": "64Db5ZXKSHKOKC7h1brQck",
+        "spotify_name": "The Itch",
+        "clashfinder_name": "the Itch",
+        "start_time": 1722102600.0,
+        "end_time": 1722105000.0,
+        "stage_name": "Alcove",
+        "stage_day": 1722034800.0
+    },
+    "7y4JZjyr1HUM5b4mvtk1fJ": {
+        "id": "7y4JZjyr1HUM5b4mvtk1fJ",
+        "spotify_name": "MADMADMAD",
+        "clashfinder_name": "MadMadMad",
+        "start_time": 1722106800.0,
+        "end_time": 1722109500.0,
+        "stage_name": "Alcove",
+        "stage_day": 1722034800.0
+    },
+    "00P2dAOymeYKFx4OSaVgw1": {
+        "id": "00P2dAOymeYKFx4OSaVgw1",
+        "spotify_name": "Gaffa Tape Sandy",
+        "clashfinder_name": "Gaffa Tape Sandy",
+        "start_time": 1722111300.0,
+        "end_time": 1722114000.0,
+        "stage_name": "Alcove",
+        "stage_day": 1722034800.0
+    },
+    "58R31AvN8JMHM7xkNpVLjX": {
+        "id": "58R31AvN8JMHM7xkNpVLjX",
+        "spotify_name": "Alexis Ffrench",
+        "clashfinder_name": "Alexis Ffrench",
+        "start_time": 1722164400.0,
+        "end_time": 1722166200.0,
+        "stage_name": "Obelisk Arena",
+        "stage_day": 1722121200.0
+    },
+    "2jgPkn6LuUazBoBk6vvjh5": {
+        "id": "2jgPkn6LuUazBoBk6vvjh5",
+        "spotify_name": "The Zombies",
+        "clashfinder_name": "The Zombies",
+        "start_time": 1722168000.0,
+        "end_time": 1722169800.0,
+        "stage_name": "Obelisk Arena",
+        "stage_day": 1722121200.0
+    },
+    "4VqlewwKZJoIcA88PYHUDd": {
+        "id": "4VqlewwKZJoIcA88PYHUDd",
+        "spotify_name": "Baby Queen",
+        "clashfinder_name": "Baby Queen",
+        "start_time": 1722175200.0,
+        "end_time": 1722178800.0,
+        "stage_name": "Obelisk Arena",
+        "stage_day": 1722121200.0
+    },
+    "5r1bdqzhgRoHC3YcCV6N5a": {
+        "id": "5r1bdqzhgRoHC3YcCV6N5a",
+        "spotify_name": "The Darkness",
+        "clashfinder_name": "The Darkness",
+        "start_time": 1722180600.0,
+        "end_time": 1722184200.0,
+        "stage_name": "Obelisk Arena",
+        "stage_day": 1722121200.0
+    },
+    "0lZoBs4Pzo7R89JM9lxwoT": {
+        "id": "0lZoBs4Pzo7R89JM9lxwoT",
+        "spotify_name": "Duran Duran",
+        "clashfinder_name": "Duran Duran",
+        "start_time": 1722198600.0,
+        "end_time": 1722204000.0,
+        "stage_name": "Obelisk Arena",
+        "stage_day": 1722121200.0
+    },
+    "3hmNB1OCsGQVf8ttZy01e2": {
+        "id": "3hmNB1OCsGQVf8ttZy01e2",
+        "spotify_name": "BIG SPECIAL",
+        "clashfinder_name": "Big Special",
+        "start_time": 1722175800.0,
+        "end_time": 1722177600.0,
+        "stage_name": "Second Stage",
+        "stage_day": 1722121200.0
+    },
+    "5DGJC3n9DS0Y9eY5ul9y0O": {
+        "id": "5DGJC3n9DS0Y9eY5ul9y0O",
+        "spotify_name": "Marika Hackman",
+        "clashfinder_name": "Marika Hackman",
+        "start_time": 1722183300.0,
+        "end_time": 1722186000.0,
+        "stage_name": "Second Stage",
+        "stage_day": 1722121200.0
+    },
+    "4nkuNzBcYGlNmAqFWbHLqS": {
+        "id": "4nkuNzBcYGlNmAqFWbHLqS",
+        "spotify_name": "Ash",
+        "clashfinder_name": "Ash",
+        "start_time": 1722194400.0,
+        "end_time": 1722198000.0,
+        "stage_name": "Second Stage",
+        "stage_day": 1722121200.0
+    },
+    "2zPm4XzwKuPidtfKh92H2Z": {
+        "id": "2zPm4XzwKuPidtfKh92H2Z",
+        "spotify_name": "Lankum",
+        "clashfinder_name": "Lankum",
+        "start_time": 1722200400.0,
+        "end_time": 1722204000.0,
+        "stage_name": "Second Stage",
+        "stage_day": 1722121200.0
+    },
+    "06qfcPQQZ3AplWOg3KxsQ9": {
+        "id": "06qfcPQQZ3AplWOg3KxsQ9",
+        "spotify_name": "Alfie Jukes",
+        "clashfinder_name": "Alfie Jukes",
+        "start_time": 1722165300.0,
+        "end_time": 1722167400.0,
+        "stage_name": "Sunrise Arena",
+        "stage_day": 1722121200.0
+    },
+    "4tqPTKknmeQK1uDEFVfX4G": {
+        "id": "4tqPTKknmeQK1uDEFVfX4G",
+        "spotify_name": "Ryan McMullan",
+        "clashfinder_name": "Ryan McMullan",
+        "start_time": 1722173400.0,
+        "end_time": 1722175500.0,
+        "stage_name": "Sunrise Arena",
+        "stage_day": 1722121200.0
+    },
+    "3zvWY9gE8cITnJz7vJeDDE": {
+        "id": "3zvWY9gE8cITnJz7vJeDDE",
+        "spotify_name": "Bradley Simpson",
+        "clashfinder_name": "Bradley Simpson",
+        "start_time": 1722177300.0,
+        "end_time": 1722179400.0,
+        "stage_name": "Sunrise Arena",
+        "stage_day": 1722121200.0
+    },
+    "5YTJVNTfb9qDXATTlzuR5S": {
+        "id": "5YTJVNTfb9qDXATTlzuR5S",
+        "spotify_name": "Clarissa Connelly",
+        "clashfinder_name": "Clarissa Connelly",
+        "start_time": 1722180900.0,
+        "end_time": 1722183000.0,
+        "stage_name": "Sunrise Arena",
+        "stage_day": 1722121200.0
+    },
+    "6maphvdwLWb9tIeiFAAaE3": {
+        "id": "6maphvdwLWb9tIeiFAAaE3",
+        "spotify_name": "Talk Show",
+        "clashfinder_name": "Talk Show",
+        "start_time": 1722184800.0,
+        "end_time": 1722186900.0,
+        "stage_name": "Sunrise Arena",
+        "stage_day": 1722121200.0
+    },
+    "0lGEUAqbgX8yeEGIWjY9eV": {
+        "id": "0lGEUAqbgX8yeEGIWjY9eV",
+        "spotify_name": "Picture Parlour",
+        "clashfinder_name": "Picture Parlour",
+        "start_time": 1722188700.0,
+        "end_time": 1722190800.0,
+        "stage_name": "Sunrise Arena",
+        "stage_day": 1722121200.0
+    },
+    "14zhvja4OxwrmivOB3LHOn": {
+        "id": "14zhvja4OxwrmivOB3LHOn",
+        "spotify_name": "Nieve Ella",
+        "clashfinder_name": "Nieve Ella",
+        "start_time": 1722192600.0,
+        "end_time": 1722194700.0,
+        "stage_name": "Sunrise Arena",
+        "stage_day": 1722121200.0
+    },
+    "10duXbKJkvdGK5RgktEnxV": {
+        "id": "10duXbKJkvdGK5RgktEnxV",
+        "spotify_name": "Julie Byrne",
+        "clashfinder_name": "Julie Byrne",
+        "start_time": 1722196200.0,
+        "end_time": 1722198900.0,
+        "stage_name": "Sunrise Arena",
+        "stage_day": 1722121200.0
+    },
+    "4v6p8rTvDtYbnoegKY3mqr": {
+        "id": "4v6p8rTvDtYbnoegKY3mqr",
+        "spotify_name": "Talia Rae",
+        "clashfinder_name": "Talia Rae",
+        "start_time": 1722168000.0,
+        "end_time": 1722170100.0,
+        "stage_name": "Alcove",
+        "stage_day": 1722121200.0
+    },
+    "3wymvWMpCgtYf1CtV4ZddR": {
+        "id": "3wymvWMpCgtYf1CtV4ZddR",
+        "spotify_name": "Beattie",
+        "clashfinder_name": "Beattie",
+        "start_time": 1722171900.0,
+        "end_time": 1722174000.0,
+        "stage_name": "Alcove",
+        "stage_day": 1722121200.0
+    },
+    "6fB2D85hn56JzRBTlCG0nw": {
+        "id": "6fB2D85hn56JzRBTlCG0nw",
+        "spotify_name": "Rachael Lavelle",
+        "clashfinder_name": "Rachael Lavelle",
+        "start_time": 1722175800.0,
+        "end_time": 1722177900.0,
+        "stage_name": "Alcove",
+        "stage_day": 1722121200.0
+    },
+    "0GoPtqTkdJfjPEc7tpI5RJ": {
+        "id": "0GoPtqTkdJfjPEc7tpI5RJ",
+        "spotify_name": "Wendy Bevan",
+        "clashfinder_name": "Wendy Bevan",
+        "start_time": 1722179700.0,
+        "end_time": 1722182100.0,
+        "stage_name": "Alcove",
+        "stage_day": 1722121200.0
+    },
+    "6FLqwgd1Ks0JvEmqpewIpv": {
+        "id": "6FLqwgd1Ks0JvEmqpewIpv",
+        "spotify_name": "Jasmine Jethwa",
+        "clashfinder_name": "Jasmine Jethwa",
+        "start_time": 1722193200.0,
+        "end_time": 1722195900.0,
+        "stage_name": "Alcove",
+        "stage_day": 1722121200.0
+    },
+    "7lhD6ETR0JNlpJWYycy3jx": {
+        "id": "7lhD6ETR0JNlpJWYycy3jx",
+        "spotify_name": "Jords",
+        "clashfinder_name": "Jords",
+        "start_time": 1722197700.0,
+        "end_time": 1722200400.0,
+        "stage_name": "Alcove",
+        "stage_day": 1722121200.0
+    }
+}
