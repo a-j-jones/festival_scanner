@@ -62,7 +62,7 @@ async function getMatchingArtists(refresh = false) {
 
 async function getAllSpotifyArtists() {
   const limit = 20;
-  const maxLimit = 100;
+  const maxLimit = 250;
   const { total, items: firstBatch } = await SpotifyService.getTopArtists(limit);
   const remainingRequests = Math.ceil((Math.min(total, maxLimit) - limit) / limit);
 
